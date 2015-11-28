@@ -1,0 +1,573 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Viking -- http://viking.sf.net/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<wpt lat="46.223959999999998" lon="6.4246980000000002">
+  <name>Burdignin</name>
+  <ele>942.69140600000003</ele>
+  <time>2012-04-17T17:24:51Z</time>
+  <cmt>27-MAR-12 15:57:28</cmt>
+  <desc>Bruant Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.255011000000003" lon="6.3913219999999997">
+  <name>Carri&#xe8;re de Bons</name>
+  <ele>833.58252000000005</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>16-APR-10 11:51:29</cmt>
+  <desc>Bons Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.153799999999997" lon="6.3727">
+  <name>Carri&#xe8;re de Fillinges (carri&#xe8;re principale)</name>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.154457999999998" lon="6.3714769999999996">
+  <name>Carri&#xe8;re de Fillinges (seconde carri&#xe8;re)</name>
+  <ele>564.17529300000001</ele>
+  <time>2012-04-17T17:24:51Z</time>
+  <cmt>09-AVR-12 11:14:58</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.180774999999997" lon="6.3719380000000001">
+  <name>Carri&#xe8;re de Saint-Andr&#xe9;</name>
+  <ele>676.40820299999996</ele>
+  <time>2012-04-17T17:24:51Z</time>
+  <cmt>20-OCT-11 13:11:06</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.716999999999999" lon="7.3062719999999999">
+  <name>Carri&#xe8;re de Zollhaus</name>
+  <desc>Berra Flysch</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.330399999999997" lon="6.4660000000000002">
+  <name>Carri&#xe8;re de l&apos;Avenue des Allinges (section 1)</name>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.330359999999999" lon="6.4659589999999998">
+  <name>Carri&#xe8;re de l&apos;Avenue des Allinges (section 2)</name>
+  <ele>642</ele>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.330399999999997" lon="6.4657">
+  <name>Carri&#xe8;re de l&apos;Avenue des Allinges (section 3)</name>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.335816000000001" lon="6.4738220000000002">
+  <name>Carri&#xe8;re de la Route de Noyer</name>
+  <ele>539</ele>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.468539" lon="6.9153460000000004">
+  <name>Carri&#xe8;re des Fayaux 1</name>
+  <desc>Fayaux-Pleiades nappe</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.387300000000003" lon="6.8201000000000001">
+  <name>Carri&#xe8;re du Fenalet</name>
+  <desc>Fenalet Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.249285999999998" lon="6.3835620000000004">
+  <name>Carri&#xe8;re inf&#xe9;rieure de Saxel</name>
+  <ele>834.54394500000001</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>23-OCT-09 16:26:01</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.252291999999997" lon="6.3960030000000003">
+  <name>Carri&#xe8;re sup&#xe9;rieure de Saxel</name>
+  <ele>948.69970699999999</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>22-OCT-09 11:21:29</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.160623999999999" lon="6.3724160000000003">
+  <name>Chez les Bourguignons</name>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.291826999999998" lon="6.4277170000000003">
+  <name>Ch&#xe2;teau de la Rochette</name>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.228050000000003" lon="6.3542870000000002">
+  <name>Cr&#xea;te des Voirons 1</name>
+  <ele>1466.3657229999999</ele>
+  <cmt>13-AOU-10 17:06:08</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.226666000000002" lon="6.3536599999999996">
+  <name>Cr&#xea;te des Voirons 2</name>
+  <ele>1457.473389</ele>
+  <cmt>13-AOU-10 12:58:45</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.225141000000001" lon="6.3535120000000003">
+  <name>Cr&#xea;te des Voirons 3</name>
+  <ele>1462.7607419999999</ele>
+  <cmt>13-AOU-10 13:12:49</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.223854000000003" lon="6.3534280000000001">
+  <name>Cr&#xea;te des Voirons 4</name>
+  <ele>1376.9636230000001</ele>
+  <cmt>17-AOU-10 16:05:27</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.223520000000001" lon="6.3534269999999999">
+  <name>Cr&#xea;te des Voirons 5</name>
+  <ele>1417.098389</ele>
+  <cmt>19-AOU-10 13:54:03</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.217354999999998" lon="6.353326">
+  <name>Cr&#xea;te des Voirons 6</name>
+  <ele>1427.192139</ele>
+  <cmt>17-AOU-10 17:43:00</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.216064000000003" lon="6.3542389999999997">
+  <name>Cr&#xea;te des Voirons 7</name>
+  <ele>1443.5344239999999</ele>
+  <cmt>19-AOU-10 16:42:59</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.229663000000002" lon="6.3949480000000003">
+  <name>D20 - Bouvet/Rollin (route)</name>
+  <ele>868.43017599999996</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>24-MAI-10 15:57:03</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.230690000000003" lon="6.3954500000000003">
+  <name>D20 - Bouvet/Rollin (torrent)</name>
+  <ele>865.30590800000004</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>24-MAI-10 15:40:07</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.250728000000002" lon="6.3866829999999997">
+  <name>D20 - Talus 820</name>
+  <ele>838.62939500000005</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>05-APR-10 14:49:03</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.252288999999998" lon="6.3910840000000002">
+  <name>D20 - Talus 890</name>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.253328000000003" lon="6.3992050000000003">
+  <name>D20 - Talus 902</name>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.229553000000003" lon="6.3620460000000003">
+  <name>D50</name>
+  <ele>1337.790283</ele>
+  <cmt>11-AOU-10 15:15:36</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.332912" lon="6.4613649999999998">
+  <name>Grande carri&#xe8;re d&apos;Allinges</name>
+  <ele>564.65600600000005</ele>
+  <time>2012-04-17T17:24:51Z</time>
+  <cmt>15-DEC-09 11:38:20</cmt>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.241568000000001" lon="6.3691560000000003">
+  <name>Grands Bois (section 1)</name>
+  <ele>1048.676025</ele>
+  <time>2012-03-23T18:50:53Z</time>
+  <cmt>23-MAR-12 14:01:59</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.239679000000002" lon="6.3719320000000002">
+  <name>Grands Bois (section 2)</name>
+  <ele>1027.7673339999999</ele>
+  <time>2012-03-23T18:50:53Z</time>
+  <cmt>23-MAR-12 13:40:57</cmt>
+  <desc>Bons Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.233359999999998" lon="6.4086160000000003">
+  <name>Grange Sauthier</name>
+  <ele>1033.054443</ele>
+  <time>2012-03-12T09:44:37Z</time>
+  <cmt>12-MAR-12 3:34:03</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.238346999999997" lon="6.3780739999999998">
+  <name>Granges Gaillard</name>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.317126000000002" lon="6.4443760000000001">
+  <name>Grotte aux Loups</name>
+  <ele>660.78710899999999</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>28-DEC-11 14:55:48</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.219912000000001" lon="6.418685">
+  <name>La Chavanne</name>
+  <ele>843.91650400000003</ele>
+  <time>2012-04-17T17:24:51Z</time>
+  <cmt>27-MAR-12 10:56:21</cmt>
+  <desc>Bruant Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.241497000000003" lon="6.3855259999999996">
+  <name>La Coterie</name>
+  <ele>999.16845699999999</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>11-AOU-10 16:38:01</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.226640000000003" lon="6.3739759999999999">
+  <name>La Jani&#xe8;re</name>
+  <ele>1120.0532229999999</ele>
+  <cmt>09-JUN-14 14:53:00</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.238329999999998" lon="6.3601200000000002">
+  <name>La Moutonni&#xe8;re</name>
+  <ele>1158.2653809999999</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>22-SEP-10 16:08:31</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.223863000000001" lon="6.3679399999999999">
+  <name>La Renardi&#xe8;re</name>
+  <ele>1186.383789</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>07-MAI-11 17:54:47</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.238278000000001" lon="6.3910689999999999">
+  <name>La Salle</name>
+  <ele>863.14282200000002</ele>
+  <cmt>22-MAI-10 18:41:49</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.240997" lon="6.3903270000000001">
+  <name>La Salle 2</name>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.192706999999999" lon="6.4173249999999999">
+  <name>Les Chaix</name>
+  <ele>987.87304700000004</ele>
+  <cmt>28-AOU-11 17:16:25</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.168069000000003" lon="6.3805860000000001">
+  <name>Meuli&#xe8;re de Grande Gueule</name>
+  <ele>772.29907200000002</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>11-MAI-11 12:09:43</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.175282000000003" lon="6.3768089999999997">
+  <name>Meuli&#xe8;re &#xe0; Vachat</name>
+  <ele>763</ele>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.223776999999998" lon="6.3564970000000001">
+  <name>Monast&#xe8;re de Bethl&#xe9;em</name>
+  <ele>1298.376221</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>17-MAI-10 15:36:40</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.229683000000001" lon="6.4161640000000002">
+  <name>Nant de Carraz</name>
+  <ele>1074.871582</ele>
+  <time>2012-04-17T17:24:51Z</time>
+  <cmt>27-MAR-12 14:09:11</cmt>
+  <desc>Bruant Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.229193000000002" lon="6.4157349999999997">
+  <name>Nant de Carraz (bord de route)</name>
+  <ele>1071.747314</ele>
+  <time>2012-04-17T17:24:51Z</time>
+  <cmt>27-MAR-12 13:48:16</cmt>
+  <desc>Bruant Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.218499999999999" lon="6.3722000000000003">
+  <name>Nant de Manant (section 1)</name>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.217599999999997" lon="6.3739999999999997">
+  <name>Nant de Manant (section 2)</name>
+  <desc>Voirons Sandstone Fm - Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.217399999999998" lon="6.3754999999999997">
+  <name>Nant de Manant (section 3)</name>
+  <desc>Voirons Sandstone Fm - Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.232356000000003" lon="6.4304860000000001">
+  <name>Nant de la Combe &#xc9;cuer</name>
+  <ele>973</ele>
+  <desc>Bruant Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.334577000000003" lon="6.4634549999999997">
+  <name>Petite carri&#xe8;re d&apos;Allinges</name>
+  <ele>552.63940400000001</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>15-DEC-09 10:59:39</cmt>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.1952" lon="6.3627000000000002">
+  <name>Planet</name>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.214796" lon="6.3553269999999999">
+  <name>Pointe de Brantaz</name>
+  <ele>1456.5119629999999</ele>
+  <cmt>17-MAI-10 18:42:33</cmt>
+  <desc>Conglomerate of the Voirons Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.197870999999999" lon="6.3487859999999996">
+  <name>Pral&#xe8;re</name>
+  <ele>1412.772461</ele>
+  <cmt>20-JUL-10 14:48:26</cmt>
+  <desc>Conglomerate of the Voirons Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.243498000000002" lon="6.4395740000000004">
+  <name>Rau Bruant (section 1)</name>
+  <ele>1006</ele>
+  <desc>Bruant Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.243225000000002" lon="6.4395769999999999">
+  <name>Rau Bruant (section 2)</name>
+  <ele>1019</ele>
+  <desc>Bruant Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.242784" lon="6.4397539999999998">
+  <name>Rau Bruant (section 3)</name>
+  <ele>973</ele>
+  <desc>Bruant Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.330956999999998" lon="6.4633079999999996">
+  <name>Rempart Nord de Ch&#xe2;teau-Neuf d&apos;Allinges</name>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.195653" lon="6.3476140000000001">
+  <name>Roche aux Corbeaux</name>
+  <ele>1379.1264650000001</ele>
+  <cmt>25-AOU-10 15:53:17</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.335348000000003" lon="6.4662889999999997">
+  <name>Rocher d&apos;escalade</name>
+  <ele>654.29809599999999</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>28-DEC-11 12:01:58</cmt>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.243124999999999" lon="6.4030009999999997">
+  <name>Route de Supersaxel</name>
+  <ele>1056.847168</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>05-JUN-10 13:51:39</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.227989999999998" lon="6.3583150000000002">
+  <name>Route des Monast&#xe8;res</name>
+  <ele>1388.9799800000001</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>17-MAI-10 16:11:39</cmt>
+  <desc>Conglomerate of the Voirons Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.224392999999999" lon="6.3531370000000003">
+  <name>Saut de la Pucelle</name>
+  <ele>1445.6972659999999</ele>
+  <cmt>13-AOU-10 13:55:37</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.242821999999997" lon="6.3938769999999998">
+  <name>Saxel &#xe9;glise</name>
+  <ele>893.42431599999998</ele>
+  <cmt>22-MAI-10 17:25:58</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.242001999999999" lon="6.3942050000000004">
+  <name>Saxel &#xe9;glise (torrent)</name>
+  <ele>890.05957000000001</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>22-MAI-10 18:17:56</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.334735000000002" lon="6.4644320000000004">
+  <name>Sentier des Ch&#xe2;teaux des Allinges</name>
+  <ele>557.20556599999998</ele>
+  <time>2013-06-04T17:47:07Z</time>
+  <cmt>04-JUN-13 15:00:33</cmt>
+  <desc>Allinges Sandstone Mb</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.248209000000003" lon="6.4081939999999999">
+  <name>Supersaxel</name>
+  <ele>1077.755615</ele>
+  <cmt>25-AVR-10 17:14:08</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.224220000000003" lon="6.4118170000000001">
+  <name>Torrent Chez Musard</name>
+  <ele>942.45092799999998</ele>
+  <time>2012-04-17T17:24:51Z</time>
+  <cmt>27-MAR-12 15:31:11</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.226649999999999" lon="6.3972340000000001">
+  <name>Torrent Chez Rollin</name>
+  <ele>878.76415999999995</ele>
+  <time>2012-05-08T08:01:40Z</time>
+  <cmt>07-MAI-12 17:04:38</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.223531999999999" lon="6.397875">
+  <name>Torrent Chez le Merizier</name>
+  <ele>834.06323199999997</ele>
+  <cmt>01-MAI-12 15:18:43</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.169688999999998" lon="6.3893230000000001">
+  <name>Torrent de Chauffem&#xe9;rande</name>
+  <ele>871</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.203020000000002" lon="6.3637940000000004">
+  <name>Torrent de Curseilles (section 1)</name>
+  <ele>1101.5478519999999</ele>
+  <cmt>13-AVR-11 12:01:22</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.202551999999997" lon="6.3657539999999999">
+  <name>Torrent de Curseilles (section 2)</name>
+  <ele>1058.048828</ele>
+  <cmt>15-AVR-11 15:45:37</cmt>
+  <desc>Voirons Sandstone Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.201013000000003" lon="6.3692859999999998">
+  <name>Torrent de Curseilles (section 3)</name>
+  <ele>1031.372314</ele>
+  <cmt>20-AVR-11 16:24:06</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.200375000000001" lon="6.3709579999999999">
+  <name>Torrent de Curseilles (section 4)</name>
+  <ele>978.98071300000004</ele>
+  <cmt>10-JUL-10 10:19:48</cmt>
+  <desc>Voirons Sandstone Fm - Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.245584000000001" lon="6.3982029999999996">
+  <name>Torrent de Saxel</name>
+  <ele>836.70678699999996</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>18-APR-10 16:02:38</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.24409" lon="6.3962519999999996">
+  <name>Torrent de Saxel inf&#xe9;rieur</name>
+  <ele>890.54028300000004</ele>
+  <time>2012-04-17T17:24:51Z</time>
+  <cmt>22-MAI-10 15:59:18</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.247878999999998" lon="6.4092710000000004">
+  <name>Torrent de Supersaxel</name>
+  <ele>1130.1469729999999</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>05-JUN-10 17:19:51</cmt>
+  <desc>Bo&#xeb;ge Marl Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.183658999999999" lon="6.37073">
+  <name>Torrent de la Molertaz</name>
+  <ele>748.98706100000004</ele>
+  <time>2012-04-13T22:43:12Z</time>
+  <cmt>17-AVR-11 17:21:41</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="46.228966999999997" lon="6.3837159999999997">
+  <name>Torrent du Rafort</name>
+  <ele>869.63183600000002</ele>
+  <cmt>24-MAI-10 18:56:42</cmt>
+  <desc>Vouan Conglomerate Fm</desc>
+  <sym>Flag, Blue</sym>
+</wpt>
+</gpx>
