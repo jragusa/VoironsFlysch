@@ -1,700 +1,448 @@
-<?xml version="1.0"?>
-<gpx version="1.0" creator="Viking -- http://viking.sf.net/"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xmlns="http://www.topografix.com/GPX/1/0"
-xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
-<wpt lat="46.334576513618231" lon="6.4634545985609293">
-  <name>Allinges 1</name>
-  <ele>552.639404296875</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>15-DEC-09 10:59:39</cmt>
-  <desc>15-DEC-09 10:59:39</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.332911951467395" lon="6.4613649901002654">
-  <name>Allinges 2</name>
-  <ele>564.656005859375</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>15-DEC-09 11:38:20</cmt>
-  <desc>15-DEC-09 11:38:20</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.192437037825584" lon="6.4172610081732273">
-  <name>Bogeve1</name>
-  <ele>977.538818359375</ele>
-  <cmt>28-AOU-11 16:36:41</cmt>
-  <desc>28-AOU-11 16:36:41</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.192706935107708" lon="6.4173253811895847">
-  <name>Bogeve2</name>
-  <ele>987.873046875</ele>
-  <cmt>28-AOU-11 17:16:25</cmt>
-  <desc>28-AOU-11 17:16:25</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.239678533747792" lon="6.3719324301928282">
-  <name>Bois</name>
-  <ele>1027.767333984375</ele>
-  <time>2012-03-23T18:50:53Z</time>
-  <cmt>23-MAR-12 13:40:57</cmt>
-  <desc>23-MAR-12 13:40:57</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.241568149998784" lon="6.3691557571291924">
-  <name>Bois 2</name>
-  <ele>1048.676025390625</ele>
-  <time>2012-03-23T18:50:53Z</time>
-  <cmt>23-MAR-12 14:01:59</cmt>
-  <desc>23-MAR-12 14:01:59</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.153122894465923" lon="6.3818379119038582">
+﻿<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="46.153123" lon="6.381838">
+  <ele>750.7</ele>
   <name>Boisinges</name>
-  <ele>750.66943359375</ele>
-  <cmt>28-AOU-11 15:53:19</cmt>
-  <desc>28-AOU-11 15:53:19</desc>
-  <sym>Flag, Blue</sym>
+  <type>road</type>
 </wpt>
-<wpt lat="46.255011130124331" lon="6.3913217838853598">
-  <name>Bons</name>
-  <ele>833.58251953125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>16-APR-10 11:51:29</cmt>
-  <desc>16-APR-10 11:51:29</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.223960453644395" lon="6.424698019400239">
+<wpt lat="46.22396" lon="6.424698">
+  <ele>942.7</ele>
   <name>Burdignin</name>
-  <ele>942.69140625</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>27-MAR-12 15:57:28</cmt>
-  <desc>27-MAR-12 15:57:28</desc>
-  <sym>Flag, Blue</sym>
+  <type>road</type>
 </wpt>
-<wpt lat="46.229682946577668" lon="6.416164068505168">
-  <name>Carraz 1</name>
-  <ele>1074.87158203125</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>27-MAR-12 14:09:11</cmt>
-  <desc>27-MAR-12 14:09:11</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.255011" lon="6.391322">
+  <ele>833.6</ele>
+  <name>Carrière de Bons</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.22919344343245" lon="6.4157350827008486">
-  <name>Carraz Route</name>
-  <ele>1071.747314453125</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>27-MAR-12 13:48:16</cmt>
-  <desc>27-MAR-12 13:48:16</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.1538" lon="6.3727">
+  <ele>0.0</ele>
+  <name>Carrière de Fillinges (section 1)</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.33534848690033" lon="6.4662888552993536">
-  <name>CarriereAlling</name>
-  <ele>654.298095703125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>28-DEC-11 12:01:58</cmt>
-  <desc>28-DEC-11 12:01:58</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.154458" lon="6.371477">
+  <ele>564.2</ele>
+  <name>Carrière de Fillinges (section 2)</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.180775128304958" lon="6.371937794610858">
-  <name>CarriereMermie</name>
-  <ele>676.408203125</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>20-OCT-11 13:11:06</cmt>
-  <desc>20-OCT-11 13:11:06</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.155078" lon="6.370992">
+  <ele>558.2</ele>
+  <name>Carrière de Fillinges (section 3)</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.387300000000003" lon="6.8201000000000001">
-  <name>Carri&#xe8;re du Fenalet</name>
-  <sym>Flag, Green</sym>
+<wpt lat="46.3304" lon="6.466">
+  <ele>0.0</ele>
+  <name>Carrière de l'Avenue des Allinges (section 1)</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.221798006445169" lon="6.3649057969450951">
-  <name>CgPral lim inf</name>
-  <ele>1184.220703125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>09-JUL-11 15:09:12</cmt>
-  <desc>09-JUL-11 15:09:12</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.33036" lon="6.465959">
+  <ele>642.0</ele>
+  <name>Carrière de l'Avenue des Allinges (section 2)</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.171264769509435" lon="6.3887927122414112">
-  <name>Chauff Sup</name>
-  <ele>901.35498046875</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>11-AOU-11 14:15:51</cmt>
-  <desc>11-AOU-11 14:15:51</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.3304" lon="6.4657">
+  <ele>0.0</ele>
+  <name>Carrière de l'Avenue des Allinges (section 3)</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.242334255948663" lon="6.3664019666612148">
-  <name>Chemin 1</name>
-  <ele>1072.948974609375</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>17-AVR-12 11:12:31</cmt>
-  <desc>17-AVR-12 11:12:31</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.335816" lon="6.473822">
+  <ele>539.0</ele>
+  <name>Carrière de la Route de Noyer</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.224219873547554" lon="6.4118169620633134">
-  <name>Chez Musard</name>
-  <ele>942.450927734375</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>27-MAR-12 15:31:11</cmt>
-  <desc>27-MAR-12 15:31:11</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.180775" lon="6.371938">
+  <ele>676.4</ele>
+  <name>Carrière de Saint-André-de-Boëge</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.228966796770692" lon="6.3837163802236319">
-  <name>Chez Ranquin</name>
-  <ele>869.6318359375</ele>
-  <cmt>24-MAI-10 18:56:42</cmt>
-  <desc>24-MAI-10 18:56:42</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.717" lon="7.306272">
+  <ele>0.0</ele>
+  <name>Carrière de Zollhaus</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.201731227338314" lon="6.3495043013244867">
-  <name>Contact G-Cg ?</name>
-  <ele>1375.521728515625</ele>
-  <cmt>01-JUL-11 16:59:54</cmt>
-  <desc>01-JUL-11 16:59:54</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.468539" lon="6.915346">
+  <ele>0.0</ele>
+  <name>Carrière des Fayaux 1</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.241496568545699" lon="6.3855260331183672">
-  <name>Coterie</name>
-  <ele>999.16845703125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>11-AOU-10 16:38:01</cmt>
-  <desc>11-AOU-10 16:38:01</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.3873" lon="6.8201">
+  <ele>0.0</ele>
+  <name>Carrière du Fenalet</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.228049984201789" lon="6.3542867638170719">
-  <name>CreteVoirons1</name>
-  <ele>1466.36572265625</ele>
-  <cmt>13-AOU-10 17:06:08</cmt>
-  <desc>13-AOU-10 17:06:08</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.249286" lon="6.383562">
+  <ele>834.5</ele>
+  <name>Carrière inférieure de Saxel</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.226666299626231" lon="6.3536598812788734">
-  <name>CreteVoirons2</name>
-  <ele>1457.473388671875</ele>
-  <cmt>13-AOU-10 12:58:45</cmt>
-  <desc>13-AOU-10 12:58:45</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.252292" lon="6.396003">
+  <ele>948.7</ele>
+  <name>Carrière supérieure de Saxel</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.225140793249011" lon="6.353511605411768">
-  <name>CreteVoirons3</name>
-  <ele>1462.7607421875</ele>
-  <cmt>13-AOU-10 13:12:49</cmt>
-  <desc>13-AOU-10 13:12:49</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.291827" lon="6.427717">
+  <ele>0.0</ele>
+  <name>Château de la Rochette</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.223853919655085" lon="6.3534284569323063">
-  <name>CreteVoirons4</name>
-  <ele>1376.963623046875</ele>
-  <cmt>17-AOU-10 16:05:27</cmt>
-  <desc>17-AOU-10 16:05:27</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.160624" lon="6.372416">
+  <ele>0.0</ele>
+  <name>Chez les Bourguignons</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.223520152270794" lon="6.3534272834658623">
-  <name>CreteVoirons5</name>
-  <ele>1417.098388671875</ele>
-  <cmt>19-AOU-10 13:54:03</cmt>
-  <desc>19-AOU-10 13:54:03</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.22805" lon="6.354287">
+  <ele>1466.4</ele>
+  <name>Crête des Voirons 1</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.217354675754905" lon="6.3533258624374866">
-  <name>CreteVoirons6</name>
-  <ele>1427.192138671875</ele>
-  <cmt>17-AOU-10 17:43:00</cmt>
-  <desc>17-AOU-10 17:43:00</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.226666" lon="6.35366">
+  <ele>1457.5</ele>
+  <name>Crête des Voirons 2</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.216063527390361" lon="6.3542389031499624">
-  <name>CreteVoirons7</name>
-  <ele>1443.534423828125</ele>
-  <cmt>19-AOU-10 16:42:59</cmt>
-  <desc>19-AOU-10 16:42:59</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.225141" lon="6.353512">
+  <ele>1462.8</ele>
+  <name>Crête des Voirons 3</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.197162419557571" lon="6.3485469203442344">
-  <name>CreteVoirons8</name>
-  <ele>1399.314208984375</ele>
-  <cmt>25-AOU-10 13:37:00</cmt>
-  <desc>25-AOU-10 13:37:00</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.223854" lon="6.353428">
+  <ele>1377.0</ele>
+  <name>Crête des Voirons 4</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.195652838796377" lon="6.3476142659783363">
-  <name>CreteVoirons9</name>
-  <ele>1379.12646484375</ele>
-  <cmt>25-AOU-10 15:53:17</cmt>
-  <desc>25-AOU-10 15:53:17</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.22352" lon="6.353427">
+  <ele>1417.1</ele>
+  <name>Crête des Voirons 5</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.176176397129893" lon="6.3859856966882944">
-  <name>Cri deChardieu</name>
-  <ele>932.837890625</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>14-JUL-11 19:31:22</cmt>
-  <desc>14-JUL-11 19:31:22</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.217355" lon="6.353326">
+  <ele>1427.2</ele>
+  <name>Crête des Voirons 6</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.198852127417922" lon="6.373164402320981">
-  <name>Curseilles1</name>
-  <ele>1199.6015625</ele>
-  <cmt>01-AVR-11 14:37:12</cmt>
-  <desc>01-AVR-11 14:37:12</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.216064" lon="6.354239">
+  <ele>1443.5</ele>
+  <name>Crête des Voirons 7</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.201012562960386" lon="6.3692855089902878">
-  <name>Curseilles10</name>
-  <ele>1031.372314453125</ele>
-  <cmt>20-AVR-11 16:24:06</cmt>
-  <desc>20-AVR-11 16:24:06</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.23069" lon="6.39545">
+  <ele>865.3</ele>
+  <name>D20 - Bouvet/Rollin (section 1)</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.198075627908111" lon="6.373530775308609">
-  <name>Curseilles2</name>
-  <ele>1004.69580078125</ele>
-  <cmt>01-AVR-11 15:45:31</cmt>
-  <desc>01-AVR-11 15:45:31</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.229663" lon="6.394948">
+  <ele>868.4</ele>
+  <name>D20 - Bouvet/Rollin (section 2)</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.197685282677412" lon="6.3740906864404678">
-  <name>Curseilles3</name>
-  <ele>865.546142578125</ele>
-  <cmt>01-AVR-11 17:20:03</cmt>
-  <desc>01-AVR-11 17:20:03</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.250728" lon="6.386683">
+  <ele>838.6</ele>
+  <name>D20 - Talus 820</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.196916410699487" lon="6.3779634609818459">
-  <name>Curseilles4</name>
-  <ele>839.8310546875</ele>
-  <cmt>01-AVR-11 17:50:03</cmt>
-  <desc>01-AVR-11 17:50:03</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.252289" lon="6.391084">
+  <ele>0.0</ele>
+  <name>D20 - Talus 890</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.203117510303855" lon="6.3628295157104731">
-  <name>Curseilles5</name>
-  <ele>1118.37109375</ele>
-  <cmt>13-AVR-11 11:36:47</cmt>
-  <desc>13-AVR-11 11:36:47</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.253328" lon="6.399205">
+  <ele>0.0</ele>
+  <name>D20 - Talus 902</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.203020364046097" lon="6.3637941889464864">
-  <name>Curseilles6</name>
-  <ele>1101.5478515625</ele>
-  <cmt>13-AVR-11 12:01:22</cmt>
-  <desc>13-AVR-11 12:01:22</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.202916847541928" lon="6.3644422776997089">
-  <name>Curseilles7</name>
-  <ele>1088.089599609375</ele>
-  <cmt>13-AVR-11 12:28:36</cmt>
-  <desc>13-AVR-11 12:28:36</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.203107116743922" lon="6.3647252507507801">
-  <name>Curseilles8</name>
-  <ele>1088.330078125</ele>
-  <cmt>15-AVR-11 14:40:13</cmt>
-  <desc>15-AVR-11 14:40:13</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.202551983296871" lon="6.3657538779079914">
-  <name>Curseilles9</name>
-  <ele>1058.048828125</ele>
-  <cmt>15-AVR-11 15:45:37</cmt>
-  <desc>15-AVR-11 15:45:37</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.200375454500318" lon="6.3709584530442953">
-  <name>CurseillesCasc</name>
-  <ele>978.980712890625</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>10-JUL-10 10:19:48</cmt>
-  <desc>10-JUL-10 10:19:48</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.229662662371993" lon="6.3949479628354311">
-  <name>D20-BouvRoll 2</name>
-  <ele>868.43017578125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>24-MAI-10 15:57:03</cmt>
-  <desc>24-MAI-10 15:57:03</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.23069011606276" lon="6.3954498711973429">
-  <name>D20-BouvetRoll</name>
-  <ele>865.305908203125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>24-MAI-10 15:40:07</cmt>
-  <desc>24-MAI-10 15:40:07</desc>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.229514135047793" lon="6.3622883800417194">
+<wpt lat="46.229553" lon="6.362046">
+  <ele>1337.8</ele>
   <name>D50</name>
-  <ele>1337.790283203125</ele>
-  <cmt>11-AOU-10 15:15:36</cmt>
-  <desc>11-AOU-10 15:15:36</desc>
-  <sym>Flag, Blue</sym>
+  <type>road</type>
 </wpt>
-<wpt lat="46.154458215460181" lon="6.371476873755455">
-  <name>Fillinges 2</name>
-  <ele>564.17529296875</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>09-AVR-12 11:14:58</cmt>
-  <desc>09-AVR-12 11:14:58</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.359738" lon="6.520357">
+  <ele>443.3</ele>
+  <name>Dranse</name>
+  <type>river</type>
 </wpt>
-<wpt lat="46.155078476294875" lon="6.37099239975214">
-  <name>Fillinges 3</name>
-  <ele>558.1669921875</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>09-AVR-12 10:55:40</cmt>
-  <desc>09-AVR-12 10:55:40</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.332912" lon="6.461365">
+  <ele>564.7</ele>
+  <name>Grande carrière d'Allinges</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.184106431901455" lon="6.3805369567126036">
-  <name>Geant Dormant</name>
-  <ele>726.396484375</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>20-OCT-11 15:22:16</cmt>
-  <desc>20-OCT-11 15:22:16</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.241568" lon="6.369156">
+  <ele>1048.7</ele>
+  <name>Grands Bois (section 1)</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.16806942038238" lon="6.3805863261222839">
-  <name>GrandeGueule</name>
-  <ele>772.299072265625</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>11-MAI-11 12:09:43</cmt>
-  <desc>11-MAI-11 12:09:43</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.239679" lon="6.371932">
+  <ele>1027.8</ele>
+  <name>Grands Bois (section 2)</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.233360338956118" lon="6.4086157456040382">
-  <name>GrangeSauthier</name>
-  <ele>1033.054443359375</ele>
-  <time>2012-03-12T09:44:37Z</time>
-  <cmt>12-MAR-12 3:34:03</cmt>
-  <desc>12-MAR-12 3:34:03</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.23336" lon="6.408616">
+  <ele>1033.1</ele>
+  <name>Grange Sauthier</name>
+  <type>trail</type>
 </wpt>
-<wpt lat="46.31712606176734" lon="6.4443760458379984">
-  <name>Grotte Loups</name>
-  <ele>660.787109375</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>28-DEC-11 14:55:48</cmt>
-  <desc>28-DEC-11 14:55:48</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.238347" lon="6.378074">
+  <ele>0.0</ele>
+  <name>Granges Gaillard</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.221361141651869" lon="6.3519600313156843">
-  <name>Grotte des 3 f</name>
-  <time>2012-04-13T22:43:12Z</time>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.317126" lon="6.444376">
+  <ele>660.8</ele>
+  <name>Grotte aux Loups</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.217000037431717" lon="6.3506388757377863">
-  <name>Kro d&apos;Evero</name>
-  <time>2011-06-25T12:28:37Z</time>
-  <sym>Flag, Blue</sym>
-</wpt>
-<wpt lat="46.21991191059351" lon="6.4186845067888498">
+<wpt lat="46.219912" lon="6.418685">
+  <ele>843.9</ele>
   <name>La Chavanne</name>
-  <ele>843.91650390625</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>27-MAR-12 10:56:21</cmt>
-  <desc>27-MAR-12 10:56:21</desc>
-  <sym>Flag, Blue</sym>
+  <type>bank</type>
 </wpt>
-<wpt lat="46.199823841452599" lon="6.354495557025075">
-  <name>La Joux</name>
-  <ele>1283.23583984375</ele>
-  <cmt>01-JUL-11 17:28:11</cmt>
-  <desc>01-JUL-11 17:28:11</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.241497" lon="6.385526">
+  <ele>999.2</ele>
+  <name>La Coterie</name>
+  <type>trail</type>
 </wpt>
-<wpt lat="46.257804818451405" lon="6.4044301584362984">
-  <name>La Parire</name>
-  <ele>743.21923828125</ele>
-  <cmt>12-JUN-10 12:48:00</cmt>
-  <desc>12-JUN-10 12:48:00</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.22664" lon="6.373976">
+  <ele>1120.1</ele>
+  <name>La Janière</name>
+  <type>trail</type>
 </wpt>
-<wpt lat="46.223862553015351" lon="6.367939542979002">
-  <name>La Renardiere</name>
-  <ele>1186.3837890625</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>07-MAI-11 17:54:47</cmt>
-  <desc>07-MAI-11 17:54:47</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.174784" lon="6.346575">
+  <ele>775.2</ele>
+  <name>La Mouille (Juffly)</name>
+  <type>?</type>
 </wpt>
-<wpt lat="46.238277917727828" lon="6.3910689018666744">
+<wpt lat="46.23833" lon="6.36012">
+  <ele>1158.3</ele>
+  <name>La Moutonnière</name>
+  <type>road</type>
+</wpt>
+<wpt lat="46.223863" lon="6.36794">
+  <ele>1186.4</ele>
+  <name>La Renardière</name>
+  <type>trail</type>
+</wpt>
+<wpt lat="46.23909" lon="6.386521">
+  <ele>980.4</ele>
+  <name>La Roche aux Fées</name>
+  <type>trail</type>
+</wpt>
+<wpt lat="46.238278" lon="6.391069">
+  <ele>863.1</ele>
+  <name>La Salle</name>
+  <type>road</type>
+</wpt>
+<wpt lat="46.240997" lon="6.390327">
+  <ele>0.0</ele>
   <name>La Salle 2</name>
-  <ele>863.142822265625</ele>
-  <cmt>22-MAI-10 18:41:49</cmt>
-  <desc>22-MAI-10 18:41:49</desc>
-  <sym>Flag, Blue</sym>
+  <type>road</type>
 </wpt>
-<wpt lat="46.174783576279879" lon="6.3465749099850663">
-  <name>LaMouille</name>
-  <ele>775.182861328125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>11-NOV-09 15:55:53</cmt>
-  <desc>11-NOV-09 15:55:53</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.192707" lon="6.417325">
+  <ele>987.9</ele>
+  <name>Les Chaix</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.250970968976617" lon="6.4500601496547461">
-  <name>Limite Gv/Med?</name>
-  <ele>1099.385009765625</ele>
-  <cmt>05-MAR-12 5:04:43</cmt>
-  <desc>05-MAR-12 5:04:43</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.175282" lon="6.376809">
+  <ele>763.0</ele>
+  <name>Meulière à Vachat</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.228055516257882" lon="6.3713888637721539">
-  <name>Meuli&#xe8;re Bo&#xeb;ge</name>
-  <ele>1180</ele>
-  <time>2011-05-07T11:29:21Z</time>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.228056" lon="6.371389">
+  <ele>1180.0</ele>
+  <name>Meulière de Boëge</name>
+  <type>trail</type>
 </wpt>
-<wpt lat="46.183658838272095" lon="6.3707298785448074">
-  <name>Molertaz1</name>
-  <ele>748.987060546875</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>17-AVR-11 17:21:41</cmt>
-  <desc>17-AVR-11 17:21:41</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.168069" lon="6.380586">
+  <ele>772.3</ele>
+  <name>Meulière de Grande Gueule</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.223777309060097" lon="6.35649673640728">
-  <name>Monastere</name>
-  <ele>1298.376220703125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>17-MAI-10 15:36:40</cmt>
-  <desc>17-MAI-10 15:36:40</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.223777" lon="6.356497">
+  <ele>1298.4</ele>
+  <name>Monastère de Bethléem</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.227989634498954" lon="6.3583149388432503">
-  <name>Monastere Roue</name>
-  <ele>1388.97998046875</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>17-MAI-10 16:11:39</cmt>
-  <desc>17-MAI-10 16:11:39</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.229683" lon="6.416164">
+  <ele>1074.9</ele>
+  <name>Nant de Carraz</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.238329885527492" lon="6.3601203169673681">
-  <name>Moutonniers</name>
-  <ele>1158.265380859375</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>22-SEP-10 16:08:31</cmt>
-  <desc>22-SEP-10 16:08:31</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.229193" lon="6.415735">
+  <ele>1071.7</ele>
+  <name>Nant de Carraz (bord de route)</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.189717948436737" lon="6.350001934915781">
-  <name>Orat.Pralaire</name>
-  <ele>1295.492431640625</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>25-AOU-10 12:14:33</cmt>
-  <desc>25-AOU-10 12:14:33</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.232356" lon="6.430486">
+  <ele>973.0</ele>
+  <name>Nant de la Combe Écuer</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.21479551307857" lon="6.3553267903625974">
-  <name>Pointe Brantaz</name>
-  <ele>1456.511962890625</ele>
-  <cmt>17-MAI-10 18:42:33</cmt>
-  <desc>17-MAI-10 18:42:33</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.2185" lon="6.3722">
+  <ele>0.0</ele>
+  <name>Nant de Manant (section 1)</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.197870774194598" lon="6.3487863074988127">
-  <name>Pralaire</name>
-  <ele>1412.7724609375</ele>
-  <cmt>20-JUL-10 14:48:26</cmt>
-  <desc>20-JUL-10 14:48:26</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.2176" lon="6.374">
+  <ele>0.0</ele>
+  <name>Nant de Manant (section 2)</name>
+  <type>trail</type>
 </wpt>
-<wpt lat="46.264377487823367" lon="6.431424580514431">
-  <name>RessistFoges</name>
-  <ele>933.558837890625</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>01-MAI-11 17:49:10</cmt>
-  <desc>01-MAI-11 17:49:10</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.2174" lon="6.3755">
+  <ele>0.0</ele>
+  <name>Nant de Manant (section 3)</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.239089705049992" lon="6.3865212164819241">
-  <name>Roche aux Fees</name>
-  <ele>980.4228515625</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>11-AOU-10 17:07:53</cmt>
-  <desc>11-AOU-10 17:07:53</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.189718" lon="6.350002">
+  <ele>1295.5</ele>
+  <name>Oratoire du Pralère</name>
+  <type>trail</type>
 </wpt>
-<wpt lat="46.243124669417739" lon="6.4030009601265192">
-  <name>RouteSupersaxl</name>
-  <ele>1056.84716796875</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>05-JUN-10 13:51:39</cmt>
-  <desc>05-JUN-10 13:51:39</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.334577" lon="6.463455">
+  <ele>552.6</ele>
+  <name>Petite carrière d'Allinges</name>
+  <type>quarry</type>
 </wpt>
-<wpt lat="46.224393378943205" lon="6.3531367667019367">
-  <name>Saut Pucelle</name>
-  <ele>1445.697265625</ele>
-  <cmt>13-AOU-10 13:55:37</cmt>
-  <desc>13-AOU-10 13:55:37</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.1952" lon="6.3627">
+  <ele>0.0</ele>
+  <name>Planet</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.245584255084395" lon="6.3982033263891944">
-  <name>Saxel</name>
-  <ele>836.706787109375</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>18-APR-10 16:02:38</cmt>
-  <desc>18-APR-10 16:02:38</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.214796" lon="6.355327">
+  <ele>1456.5</ele>
+  <name>Pointe de Brantaz</name>
+  <type>trail</type>
 </wpt>
-<wpt lat="46.242822334170341" lon="6.3938765041530132">
-  <name>Saxel Eglise</name>
-  <ele>893.42431640625</ele>
-  <cmt>22-MAI-10 17:25:58</cmt>
-  <desc>22-MAI-10 17:25:58</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.197871" lon="6.348786">
+  <ele>1412.8</ele>
+  <name>Pralère</name>
+  <type>trail</type>
 </wpt>
-<wpt lat="46.242002416402102" lon="6.3942049071192741">
-  <name>SaxelEgliseInf</name>
-  <ele>890.0595703125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>22-MAI-10 18:17:56</cmt>
-  <desc>22-MAI-10 18:17:56</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.243498" lon="6.439574">
+  <ele>1006.0</ele>
+  <name>Rau Bruant (section 1)</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.249286290258169" lon="6.3835624046623707">
-  <name>SaxelInf&#xe9;rieur</name>
-  <ele>834.5439453125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>23-OCT-09 16:26:01</cmt>
-  <desc>23-OCT-09 16:26:01</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.243225" lon="6.439577">
+  <ele>1019.0</ele>
+  <name>Rau Bruant (section 2)</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.25229187309742" lon="6.3960025738924742">
-  <name>SaxelSup&#xe9;rieur</name>
-  <ele>948.69970703125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>22-OCT-09 11:21:29</cmt>
-  <desc>22-OCT-09 11:21:29</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.242784" lon="6.439754">
+  <ele>973.0</ele>
+  <name>Rau Bruant (section 3)</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.230431282892823" lon="6.3551649358123541">
-  <name>Signal Voirons</name>
-  <ele>1479.823974609375</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>17-MAI-10 17:16:04</cmt>
-  <desc>17-MAI-10 17:16:04</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.330957" lon="6.463308">
+  <ele>0.0</ele>
+  <name>Rempart Nord de Château-Neuf d'Allinges</name>
+  <type>bank</type>
 </wpt>
-<wpt lat="46.248208964243531" lon="6.4081943035125732">
-  <name>SuperSaxel</name>
-  <ele>1077.755615234375</ele>
-  <cmt>25-AVR-10 17:14:08</cmt>
-  <desc>25-AVR-10 17:14:08</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.195653" lon="6.347614">
+  <ele>1379.1</ele>
+  <name>Roche aux Corbeaux</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.250664610415697" lon="6.386244697496295">
-  <name>Talus 1</name>
-  <ele>818.92236328125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>05-APR-10 14:27:19</cmt>
-  <desc>05-APR-10 14:27:19</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.335348" lon="6.466289">
+  <ele>654.3</ele>
+  <name>Rocher d'escalade</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.250727893784642" lon="6.3866829872131348">
-  <name>Talus 2</name>
-  <ele>838.62939453125</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>05-APR-10 14:49:03</cmt>
-  <desc>05-APR-10 14:49:03</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.243125" lon="6.403001">
+  <ele>1056.8</ele>
+  <name>Route de Supersaxel</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.251514535397291" lon="6.3878712896257639">
-  <name>Talus 3</name>
-  <ele>832.861572265625</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>05-APR-10 15:10:58</cmt>
-  <desc>05-APR-10 15:10:58</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.22799" lon="6.358315">
+  <ele>1389.0</ele>
+  <name>Route des Monastères</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.21380552649498" lon="6.3494599610567093">
-  <name>Tanne &#xe0; Partoi</name>
-  <time>2011-06-25T12:36:49Z</time>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.224393" lon="6.353137">
+  <ele>1445.7</ele>
+  <name>Saut de la Pucelle</name>
+  <type>cliff</type>
 </wpt>
-<wpt lat="46.247878633439541" lon="6.4092708751559258">
-  <name>TorrSupersaxel</name>
-  <ele>1130.14697265625</ele>
-  <time>2012-04-13T22:43:12Z</time>
-  <cmt>05-JUN-10 17:19:51</cmt>
-  <desc>05-JUN-10 17:19:51</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.242822" lon="6.393877">
+  <ele>893.4</ele>
+  <name>Saxel église</name>
+  <type>bank</type>
 </wpt>
-<wpt lat="46.244089929386973" lon="6.396252354606986">
-  <name>TorrentSaxInf</name>
-  <ele>890.540283203125</ele>
-  <time>2012-04-17T17:24:51Z</time>
-  <cmt>22-MAI-10 15:59:18</cmt>
-  <desc>22-MAI-10 15:59:18</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.242002" lon="6.394205">
+  <ele>890.1</ele>
+  <name>Saxel église (torrent)</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.185634033754468" lon="6.3840197212994099">
-  <name>Vouan 1</name>
-  <ele>790.083251953125</ele>
-  <cmt>14-JUL-11 17:33:55</cmt>
-  <desc>14-JUL-11 17:33:55</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.334735" lon="6.464432">
+  <ele>557.2</ele>
+  <name>Sentier des Châteaux des Allinges</name>
+  <type>trail</type>
 </wpt>
-<wpt lat="46.18677657097578" lon="6.3884386606514454">
-  <name>Vouan 10</name>
-  <ele>806.425537109375</ele>
-  <cmt>14-JUL-11 20:11:46</cmt>
-  <desc>14-JUL-11 20:11:46</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.248209" lon="6.408194">
+  <ele>1077.8</ele>
+  <name>Supersaxel</name>
+  <type>road</type>
 </wpt>
-<wpt lat="46.184556121006608" lon="6.3830432295799264">
-  <name>Vouan 2</name>
-  <ele>732.404541015625</ele>
-  <cmt>14-JUL-11 17:52:44</cmt>
-  <desc>14-JUL-11 17:52:44</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.223532" lon="6.397875">
+  <ele>834.1</ele>
+  <name>Torrent Chez le Merizier</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.184339867904782" lon="6.3832118734717369">
-  <name>Vouan 3</name>
-  <ele>717.263916015625</ele>
-  <cmt>14-JUL-11 18:01:08</cmt>
-  <desc>14-JUL-11 18:01:08</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.22422" lon="6.411817">
+  <ele>942.5</ele>
+  <name>Torrent Chez Musard</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.185127012431622" lon="6.3802443444728851">
-  <name>Vouan 5</name>
-  <ele>680.974365234375</ele>
-  <cmt>14-JUL-11 18:27:43</cmt>
-  <desc>14-JUL-11 18:27:43</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.22665" lon="6.397234">
+  <ele>878.8</ele>
+  <name>Torrent Chez Rollin</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.184663074091077" lon="6.3793693576008081">
-  <name>Vouan 6</name>
-  <ele>679.2919921875</ele>
-  <cmt>14-JUL-11 18:36:23</cmt>
-  <desc>14-JUL-11 18:36:23</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.169689" lon="6.389323">
+  <ele>871.0</ele>
+  <name>Torrent de Chauffemérande</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.176821468397975" lon="6.3846606854349384">
-  <name>Vouan 7</name>
-  <ele>898.95166015625</ele>
-  <cmt>14-JUL-11 19:21:33</cmt>
-  <desc>14-JUL-11 19:21:33</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.20302" lon="6.363794">
+  <ele>1101.5</ele>
+  <name>Torrent de Curseilles (section 1)</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.176740163937211" lon="6.3860191404819489">
-  <name>Vouan 8</name>
-  <ele>931.876708984375</ele>
-  <cmt>14-JUL-11 19:28:55</cmt>
-  <desc>14-JUL-11 19:28:55</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.202552" lon="6.365754">
+  <ele>1058.0</ele>
+  <name>Torrent de Curseilles (section 2)</name>
+  <type>stream</type>
 </wpt>
-<wpt lat="46.177587658166885" lon="6.3865529000759134">
-  <name>Vouan 9</name>
-  <ele>898.95166015625</ele>
-  <cmt>14-JUL-11 19:49:30</cmt>
-  <desc>14-JUL-11 19:49:30</desc>
-  <sym>Flag, Blue</sym>
+<wpt lat="46.201013" lon="6.369286">
+  <ele>1031.4</ele>
+  <name>Torrent de Curseilles (section 3)</name>
+  <type>stream</type>
+</wpt>
+<wpt lat="46.200375" lon="6.370958">
+  <ele>979.0</ele>
+  <name>Torrent de Curseilles (section 4)</name>
+  <type>stream</type>
+</wpt>
+<wpt lat="46.183659" lon="6.37073">
+  <ele>749.0</ele>
+  <name>Torrent de la Molertaz</name>
+  <type>stream</type>
+</wpt>
+<wpt lat="46.245584" lon="6.398203">
+  <ele>836.7</ele>
+  <name>Torrent de Saxel</name>
+  <type>stream</type>
+</wpt>
+<wpt lat="46.24409" lon="6.396252">
+  <ele>890.5</ele>
+  <name>Torrent de Saxel inférieur</name>
+  <type>stream</type>
+</wpt>
+<wpt lat="46.247879" lon="6.409271">
+  <ele>1130.1</ele>
+  <name>Torrent de Supersaxel</name>
+  <type>stream</type>
+</wpt>
+<wpt lat="46.228967" lon="6.383716">
+  <ele>869.6</ele>
+  <name>Torrent du Rafort</name>
+  <type>stream</type>
 </wpt>
 </gpx>
