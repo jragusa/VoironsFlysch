@@ -783,26 +783,6 @@
   },
   {
     "type": "Feature",
-    "id": 40,
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "name":"La Cave aux Fées",
-    "ele":"",
-    "flysch_unit":"Voirons",
-    "formation":"Voirons Sandstone",
-    "member":"NA",
-    "status":"NA",
-    "sector":"Voirons-W",
-    "type":"trail",
-    "log":"no",
-    "comments":"Signal des Voirons B (Ujetz1996)"
-    }
-  },
-  {
-    "type": "Feature",
     "id": 41,
     "geometry": {
        "type": "Point",
@@ -819,26 +799,6 @@
     "type":"bank",
     "log":"no",
     "comments":"Previously affiliated to the Wildflysch (Kerrien1998)"
-    }
-  },
-  {
-    "type": "Feature",
-    "id": 42,
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "name":"La Corbière",
-    "ele":"",
-    "flysch_unit":"Voirons",
-    "formation":"Voirons Sandstone",
-    "member":"NA",
-    "status":"NA",
-    "sector":"Voirons-E",
-    "type":"trail",
-    "log":"no",
-    "comments":""
     }
   },
   {
@@ -879,26 +839,6 @@
     "type":"trail",
     "log":"no",
     "comments":""
-    }
-  },
-  {
-    "type": "Feature",
-    "id": 45,
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "name":"La Maisonnée",
-    "ele":"",
-    "flysch_unit":"Voirons",
-    "formation":"Voirons Sandstone",
-    "member":"NA",
-    "status":"NA",
-    "sector":"Voirons-W",
-    "type":"road",
-    "log":"yes",
-    "comments":"Outcrop 8-11 (JanduChene1975). Also called Buisson-Rond"
     }
   },
   {
@@ -1099,26 +1039,6 @@
     "type":"quarry",
     "log":"yes",
     "comments":"Protected area. Station 8 (Cogulu1961)"
-    }
-  },
-  {
-    "type": "Feature",
-    "id": 56,
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "name":"Meulière de la Molière",
-    "ele":"",
-    "flysch_unit":"Voirons",
-    "formation":"Vouan Conglomerate",
-    "member":"NA",
-    "status":"Paralithostratotype of the Vouan Conglomerate Fm.",
-    "sector":"Voirons-E",
-    "type":"quarry",
-    "log":"yes",
-    "comments":"Protected area"
     }
   },
   {
@@ -1577,26 +1497,6 @@
     "status":"NA",
     "sector":"Voirons-E",
     "type":"stream",
-    "log":"no",
-    "comments":""
-    }
-  },
-  {
-    "type": "Feature",
-    "id": 80,
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "name":"Scierie des Chênets",
-    "ele":"",
-    "flysch_unit":"Voirons",
-    "formation":"Vouan Conglomerate",
-    "member":"NA",
-    "status":"NA",
-    "sector":"Voirons-E",
-    "type":"road",
     "log":"no",
     "comments":""
     }
