@@ -13,12 +13,9 @@ The palaeogeography of the Gurnigel nappe stills debated. The usual interpretati
 
 The dataset composes the PhD thesis focusing on the petrography, the stratigraphy and the provenance of the Voirons Flysch (Ragusa, 2015).
 
-<script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson">
-</script>
-
 + *HeavyMinerals.csv*: Heavy mineral populations using the QEMSCAN at the University of Geneva (Departement of Earth Sciences).
 + *ModalComposition.csv*: Dataset of the modal composition following the Gazzi-Dickinson model (Gazzi et al, 1973 ; Dickinson et al., 1979 ; Dickinson et al., 1983). Countings include extrabasinal, intrabasinal grains, porosity and overall cementation (Zuffa, 1980). Keys of columns are included in preambule as comment.
 + *outcrops*: GPS location of outcrops with stratigraphic affiliation. Dataset is available in csv, gpx and geojson files.
 + *StratigraphicColours.gpl*: reference colours of the Voirons Flysch stratigraphy for Gimp and Inkscape.
 + *StratigraphicLog.csv*: Bed thickness measurements of the studied outcrops
-+ *tectonic.csv*: dip and azimut measurements of bed and faults.
++ *tectonic.csv*: dip and azimut measurements of bed and faults (Ospina-Ostios, 2017).
