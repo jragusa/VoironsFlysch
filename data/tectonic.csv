@@ -1,3 +1,10 @@
+############,,,,,,,
+# title: dip and azimut measurements of beds and faults in the Voirons Flysch,,,,,,,
+# author: Lina Maria Ospina-Ostios and Jérémy Ragusa,,,,,,,
+# date: 2014/12/15,,,,,,,
+############,,,,,,,
+# comments: please refer to the Section folder for outcrops and beds,,,,,,,
+############,,,,,,,
 outcrop,formation,member,date,bed,azimut,dip,type
 Dranse,Boëge Marl Fm.,,14/12/15,36,126,56,bed
 Dranse,Boëge Marl Fm.,,14/12/15,34,128,52,bed

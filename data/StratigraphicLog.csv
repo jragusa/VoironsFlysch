@@ -1,4 +1,11 @@
-site,section,thick,rock,bed,province,index,formation,comment
+############,,,,,,,,
+# title: bed and marly interbed thickness of the Voirons Flysch outcrops,,,,,,,,
+# author: Jérémy Ragusa and Lina Maria Ospina-Ostios,,,,,,,,
+# date: 2016/07/04,,,,,,,,
+############,,,,,,,,
+Todo: replace values with formation abbrev. in unit column,,,,,,,,
+############,,,,,,,,
+outcrop,section,thickness,rock,bed,province,index,unit,comment
 Bons,marly,100,g,,Voirons NW,Bons-marly,1,
 Bons,marly,20,m,,Voirons NW,Bons-marly,1,
 Bons,marly,150,m,,Voirons NW,Bons-marly,1,
