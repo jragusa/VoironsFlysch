@@ -1,18 +1,20 @@
 # Voirons Flysch
 
-![section](https://raw.github.com/jragusa/VoironsNappe/master/figs/CrossSection_Voirons.png)
 Datasets of the Voirons Flysch (Voirons-Wägital complex, Chablais Prealps, Haute-Savoie, France)
+![section](https://raw.github.com/jragusa/VoironsNappe/master/figs/CrossSection_Voirons.png)
 
 ## Geological settings
 
-The Alps are surrounding by several moderate elevated reliefs made of sedimentary covers and usually called *Prealps* by geographers. The Chablais and Swiss Prealps are located between the Geneva Lake (France) and the Thune Lake (Switzerland). These Prealps are constituted by a stack of Tethyan sedimentary covers (Triassic to Eocene) which were scraped off from their crystalline basement during the Alpine Tethys closure, following a thin-skinned, in-sequence thrusting. The uppermost nappes originate from the Peimont domain, while the lowermost nappe (the Niesen nappe and the Voirons-Wägial complex) derived from the Valais domain. The Chablais and Swiss Prealps represent the former sedimentary accretionnary prism of the Alpine Tethys in the Western to Central Alps. Nowadays, they overlie the Helvetic nappes to the SE and the North Alpine Foreland Basin to the NW throughout a basal Ultrahelvetic nappe.
+The Alps are surrounding by several moderate elevated reliefs made of sedimentary covers and usually called *Prealps* by geographers. The Chablais and Swiss Prealps are located between the Geneva Lake (France) and the Thune Lake (Switzerland). These Prealps are constituted by a stack of Tethyan sedimentary covers (Triassic to Eocene) which were scraped off from their crystalline basement during the Alpine Tethys closure, following a thin-skinned, in-sequence thrusting. The uppermost nappes originate from the Piemont domain, while the lowermost nappe (the Niesen nappe and the Voirons-Wägial complex) derived from the Valais domain. The Chablais and Swiss Prealps represent the former sedimentary accretionnary prism of the Alpine Tethys in the Western to Central Alps. Nowadays, they overlie the Helvetic nappes to the SE and the North Alpine Foreland Basin to the NW throughout a basal Ultrahelvetic nappe.
 
-![map](https://raw.github.com/jragusa/VoironsNappe/master/figs/TectonicMap_Prealps.png)
+![Prealps map](https://raw.github.com/jragusa/VoironsNappe/master/figs/TectonicMap_Prealps.png)
 
-The Voirons-Wägital complex (formerly named Gurnigel nappe) outcrops along the external edge, in lower position. Four flysch, spreaded from east to west, compose the Voirons-Wägiral complex. The Voirons nappe is the westernward unit, located at c.a. 20 km to Geneva. It is subdivided into four stratigraphic units: the Voirons Sandstone Fm. (VS), the Vouan Conglomerate Fm. (VC), the Boëge Marl Fm. (BM) and the Bruant Sandstone Fm. (BS). Recent revision of the planktonic foraminiferal biostratigraphy (Ragusa et al., in review) constrains age between Ypresian (Early Eocene) and probably Priabonian (Late Eocene).
-New provenance analysis (Ragusa et al., 2017) described two major detrital provenances: (1) the **Quartzose petrofacies** with major quartz component associated with granitic and sedimentary rock fragments, and (2) the **Feldspathic petrofacies** marked by composition dominated by feldspars and large inputs of metamorphic rock fragments also confirmed by higher garnet content in heavy mineral assemblage.
+The Voirons-Wägital complex (formerly named Gurnigel nappe) outcrops along the external edge, in lower position. Four flyschs, spreaded from east to west, compose the Voirons-Wägiral complex. The Voirons nappe is the westernward unit, located at c.a. 20 km to Geneva. It is subdivided into four stratigraphic units: the Voirons Sandstone Fm. (VS), the Vouan Conglomerate Fm. (VC), the Boëge Marl Fm. (BM) and the Bruant Sandstone Fm. (BS). Recent revision of the planktonic foraminiferal biostratigraphy (Ragusa et al., in review) constrains age between **Ypresian** (Early Eocene) and probably **Priabonian** (Late Eocene).
+The provenance analysis (Ragusa et al., 2017) described two major detrital provenances: (1) the **Quartzose petrofacies** with major quartz component associated with granitic and sedimentary rock fragments, and (2) the **Feldspathic petrofacies** marked by composition dominated by feldspars and large inputs of metamorphic rock fragments also confirmed by higher garnet content in heavy mineral assemblage.
 
-The palaeogeography of the Voirons-Wägital complex remains a matter of debate. The usual interpretation suggests a South Penninic origin (Opina et al., 2013; Ragusa et al., in review) rejuvenated the Voirons Flysch and indicate a Valais palaeogeographic origin (Trümpy, 2006).
+![Voirons map](https://raw.github.com/jragusa/VoironsNappe/master/figs/GeologicalMap.png)
+
+The palaeogeography of the Voirons-Wägital complex remains a matter of debate. The usual interpretation suggests a South Penninic origin (Winkler, 1983, 1984; Caron et al., 1989). However, the recent revision of the planktonic foraminiferal biostratigraphy (Ospina et al., 2013; Ragusa et al., in review) rejuvenated the Voirons Flysch and indicate a Valais palaeogeographic origin (Trümpy, 2006).
 
 ## Dataset
 

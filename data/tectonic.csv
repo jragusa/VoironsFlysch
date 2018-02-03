@@ -6,14 +6,14 @@
 # comments: please refer to the Section folder for outcrops and beds,,,,,,,
 ############,,,,,,,
 outcrop,formation,member,date,bed,azimut,dip,type
-Dranse,Boëge Marl Fm.,,14/12/15,36,126,56,bed
-Dranse,Boëge Marl Fm.,,14/12/15,34,128,52,bed
-Dranse,Boëge Marl Fm.,,14/12/15,30,122,66,bed
-Dranse,Boëge Marl Fm.,,14/12/15,17,132,77,bed
-Dranse,Boëge Marl Fm.,,14/12/15,3,152,24,bed
-Dranse,Boëge Marl Fm.,,14/12/15,1,133,36,bed
-Fenalet quarry,Voirons Sandstone Fm.,,20/04/14,4c,70,10,bed
-Fenalet quarry,Voirons Sandstone Fm.,,20/04/14,8,72,16,bed
+Dranse,Boëge Marl Fm.,,2015-12-14,36,126,56,bed
+Dranse,Boëge Marl Fm.,,2015-12-14,34,128,52,bed
+Dranse,Boëge Marl Fm.,,2015-12-14,30,122,66,bed
+Dranse,Boëge Marl Fm.,,2015-12-14,17,132,77,bed
+Dranse,Boëge Marl Fm.,,2015-12-14,3,152,24,bed
+Dranse,Boëge Marl Fm.,,2015-12-14,1,133,36,bed
+Fenalet quarry,Voirons Sandstone Fm.,,2014-04-20,4c,70,10,bed
+Fenalet quarry,Voirons Sandstone Fm.,,2014-04-20,8,72,16,bed
 Bons quarry,Voirons Sandstone Fm.,Bons Sandstone Mb.,,5,98,40,bed
 Carraz stream,Bruant Sandstone Fm.,,,5,64,32,bed
 Allinges caste quarry,Voirons Sandstone Fm.,Allinges Sandstone Mb.,,16,147,55,bed
