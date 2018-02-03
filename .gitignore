@@ -1,5 +1,10 @@
 # template file from https://github.com/github/gitignore
 
+# other files
+data/thin_sections.ods
+data/thin_sections_copy.ods
+data/samples.ods
+
 # History files
 .Rhistory
 .Rapp.history
