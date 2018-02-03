@@ -41,7 +41,7 @@ Main figures describing the overall architecture of the Voirons flysch
 ## Main references
 
 + Caron C (1976) La nappe du Gurnigel dans les Préalpes. Eclogae Geologicae Helvetiae 69(2)297-308. doi: [10.5169/seals-164510](http://doi.org/10.5169/seals-164510)
-+ `Caron C, Homewood P, Wildi W (1989) The original Swiss flysch: a reappraisal of the type deposits in the Swiss Prealps. Earth-Science Reviews 26:1-45. doi: [10.1016/0012-8252(89)90002-0](http://doi.org/10.1016/0012-8252(89)90002-0)
++ Caron C, Homewood P, Wildi W (1989) The original Swiss flysch: a reappraisal of the type deposits in the Swiss Prealps. Earth-Science Reviews 26:1-45. doi: [10.1016/0012-8252(89)90002-0](http://doi.org/10.1016/0012-8252(89)90002-0)
 + Ospina-Ostios LM, Ragusa J, Wernli R, Kindler P (2013) Planktonic foraminifer biostratigraphy as a tool in constraining the timing of flysch deposition: Gurnigel flysch, Voirons massif (Haute-Savoie, France). Sedimentology 60:225-238. doi: [10.1111/sed.12013](http://doi.org/10.1111/sed.12013)
 + Ragusa J, Segvic B, Ospina-Ostios LM, Kindler P (2017) Provenance analysis of the Voirons Flysch (Gurnigel nappe, Haute-Savoie, France): Stratigraphic and paleogeographic implications. International Journal of Earth Sciences 106(8):2619-2651. doi: [10.1007/s00531-017-1474-9](http://doi.org/10.1007/s00531-017-1474-9)
 + Ragusa J, Ospina-Ostios LM, Spezzaferri S, Kindler P (in review) Revision of the planktonic foraminiferal biostratigraphy of the Voirons flysch (Chablais Prealps, Haute-Savoie, France). Swiss Journal of Geosciences.
