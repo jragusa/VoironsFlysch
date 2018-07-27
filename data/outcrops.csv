@@ -1,10 +1,10 @@
 ######,,,,,,,,,,,,
-# title : outcrops of the Voirons nappe,,,,,,,,,,,,
+# title : outcrops of the Voirons Flysch,,,,,,,,,,,,
 # author : Jérémy Ragusa,,,,,,,,,,,,
-# date : 2017-09-28,,,,,,,,,,,,
-# description : outcrops location and stratigraphic position of the Voirons nappe,,,,,,,,,,,,
+# date : 2018-07-19,,,,,,,,,,,,
+# description : location and stratigraphic position of outcrops of the Voirons Flysch,,,,,,,,,,,,
 ######,,,,,,,,,,,,
-name_fr,name_en,lon,lat,ele,nappe,formation,member,status,sector,type,log,comments
+name_fr,name_en,lon,lat,ele,flysch,formation,member,status,sector,type,log,comments
 Boisinges,Boisinges,6.381838,46.153123,750.669434,Voirons,Vouan Conglomerate,NA,NA,Vouan-W,road,no,
 Burdignin,Burdignin,6.424698,46.223960,942.691406,Voirons,Bruant Sandstone,NA,NA,GrandeCombe-SE,road,no,Previously affiliated to the Wildflysch (Kerrien1998)
 Carrière de Bons,Bons quarry,6.391322,46.255011,833.58252000000005,Voirons,Voirons Sandstone,Bons Sandstone,Lithostratotype of the Bons Sandstone Mb.,Voirons-NW,quarry,yes,Outcrop 2 (JanduChene1975)
@@ -48,18 +48,18 @@ La Chavanne,La Chavanne,6.418685,46.219912,843.91650400000003,Voirons,Bruant San
 La Corbière,La Corbière,,,,Voirons,Voirons Sandstone,NA,NA,Voirons-E,trail,no,
 La Coterie,La Coterie,6.385526,46.241497,999.16845699999999,Voirons,Vouan Conglomerate,NA,NA,Voirons-E,trail,no,Clavel outcrop ? (Lombard1940). Outcrop 19 (JanduChene1975) 
 La Janière,La Janière,6.373976,46.22664,1120.0532229999999,Voirons,Voirons Sandstone,NA,NA,Voirons-E,trail,no,
-La Maisonnée,La Maisonnée,,,,Voirons,Voirons Sandstone,NA,NA,Voirons-W,road,yes,Outcrop 8-11 (JanduChene1975). Also called Buisson-Rond
+La Maisonnée,La Maisonnée,6.354155,46.173851,,Voirons,Voirons Sandstone,NA,NA,Voirons-W,road,yes,Outcrop 8-11 (JanduChene1975). Also called Buisson-Rond
 La Mouille (Juffly),La Mouille (Juffly),6.346575,46.174784,775.182861,Voirons,Voirons Sandstone,NA,NA,Voirons-W,?,no,Outcrop 7 (JanduChene1975)
 La Moutonnière,La Moutonnière,6.36012,46.23833,1158.2653809999999,Voirons,Voirons Sandstone,NA,Lithostratotype of the Voirons Sandstone Fm.,Voirons-W,road,yes,Signal des Voirons A (Ujetz1996)
 La Renardière,La Renardière,6.36794,46.223863,1186.383789,Voirons,Voirons Sandstone,NA,NA,Voirons-E,trail,no,
-La Roche aux Fées,La Roche aux Fées,6.386521,46.239090,980.422852,Voirons,?,NA,NA,Voirons-E,trail,no,
+La Roche aux Fées,La Roche aux Fées,6.386521,46.239090,980.422852,Voirons,Vouan Conglomerate,NA,NA,Voirons-E,trail,no,
 La Salle,La Salle,6.391069,46.238278,863.14282200000002,Voirons,Vouan Conglomerate,NA,NA,Voirons-E,road,no,
 La Salle 2,La Salle 2,6.390327,46.240997,NA,Voirons,Vouan Conglomerate,NA,NA,Voirons-E,road,no,
 Les Chaix,Les Chaix,6.417325,46.192707,987.87304700000004,Voirons,Boëge Marl,NA,Disappeared,Ludran,road,yes,Limited exposure. Now covered by limestone blocks
 Meulière à Vachat,Vachat grind quarry,6.376809,46.175282,763,Voirons,Vouan Conglomerate,NA,Paralithostratotype of the Vouan Conglomerate Fm.,Vouan-W,quarry,yes,Protected area
-Meulière de Boëge,Boëge grind quarry,6.371389,46.228056,1180,Voirons,?,NA,NA,Voirons-E,trail,no,
+Meulière de Boëge,Boëge grind quarry,6.371389,46.228056,1180,Voirons,Vouan Conglomerate,NA,NA,Voirons-E,trail,no,
 Meulière de Grande Gueule,Grande Gueule grind quarry,6.380586,46.168069,772.29907200000002,Voirons,Vouan Conglomerate,NA,Lithostratotype of the Vouan Conglomerate Fm.,Vouan-W,quarry,yes,Protected area. Station 8 (Cogulu1961)
-Meulière de la Molière,Molière quarry,,,,Voirons,Vouan Conglomerate,NA,Paralithostratotype of the Vouan Conglomerate Fm.,Voirons-E,quarry,yes,Protected area
+Meulière de la Molière,Molière quarry,6.370242,46.187266,,Voirons,Vouan Conglomerate,NA,Paralithostratotype of the Vouan Conglomerate Fm.,Voirons-E,quarry,yes,Protected area
 Monastère de Bethléem,Bethléem monastery,6.356497,46.223777,1298.376221,Voirons,Voirons Sandstone,NA,Disappeared ,Voirons-E,road,no,"Restricted access. Hôtel des Voirons (Lombard1940,JanduChene1975). Outcrop 20 (JanduChene1975)"
 Nant de Carraz,Carraz stream,6.416164,46.229683,1074.871582,Voirons,Bruant Sandstone,NA,NA,GrandeCombe-S,stream,yes,Previously affiliated to the Wildflysch (Kerrien1998). Marly interval
 Nant de Carraz (bord de route),Carraz stream (road bank),6.415735,46.229193,1071.747314,Voirons,Bruant Sandstone,NA,NA,GrandeCombe-S,road,no,Previously affiliated to the Wildflysch (Kerrien1998)
@@ -83,7 +83,7 @@ Route des Monastères,Monastery road,6.358315,46.22799,1388.9799800000001,Voiron
 Saut de la Pucelle,Saut de la Pucelle,6.353137,46.224393,1445.6972659999999,Voirons,Voirons Sandstone,NA,NA,Voirons-W,cliff,yes,
 Saxel église,Saxel church,6.393877,46.242822,893.42431599999998,Voirons,Vouan Conglomerate,NA,NA,Voirons-E,bank,no,
 Saxel église (torrent),Saxel church (stream),6.394205,46.242002,890.05957000000001,Voirons,Vouan Conglomerate,NA,NA,Voirons-E,stream,no,
-Scierie des Chênets,Chênets sawmill,,,,Voirons,Vouan Conglomerate,NA,NA,Voirons-E,road,no,
+Scierie des Chênets,Chênets sawmill,6.379834,46.190423,,Voirons,Vouan Conglomerate,NA,NA,Voirons-E,road,no,Only described by Ujetz (2006)
 Sentier des Châteaux des Allinges,Allinges castles path,6.464432,46.334735,557.20556599999998,Voirons,Voirons Sandstone,Allinges Sandstone,NA,Allinges,trail,no,Previously affiliated to the Vouan Conglomerate (Vial1987)
 Supersaxel,Supersaxel,6.408194,46.248209,1077.755615,Voirons,Boëge Marl,NA,NA,Grande-Combe-W,road,yes,Previous paralithostratotype of the Boëge Marl Fm. (Stuijvenberg1980b)
 Torrent Chez le Merizier,Cjez le Merizier stream,6.397875,46.223532,834.06323199999997,Voirons,Boëge Marl,NA,Paralithostratotype of the Boëge Marl Fm.,Grande-Combe-W,stream,yes,
