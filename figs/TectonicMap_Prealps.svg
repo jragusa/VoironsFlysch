@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +13,7 @@
    viewBox="0 0 4966.7589 3565.4008"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="TectonicMap_Prealps.svg"
    inkscape:export-filename="/home/jeremy/UniGE/Git/VoironsFlysch/figs/TectonicMap_Prealps.png"
    inkscape:export-xdpi="150"
@@ -76,20 +74,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.11330608"
-     inkscape:cx="2999.5054"
-     inkscape:cy="817.92986"
+     inkscape:zoom="0.16023899"
+     inkscape:cx="2755.2902"
+     inkscape:cy="2174.0851"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer27"
+     inkscape:current-layer="layer14"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -97,11 +95,12 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-center="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-text-baseline="true"
      showborder="false"
-     borderlayer="false">
+     borderlayer="false"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="-2025.7922,4268.2891"
        orientation="1,0"
@@ -148,7 +147,7 @@
        id="guide4266"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="3950.1643,-348.39163"
+       position="3929.13,1667.4034"
        orientation="1,0"
        id="guide4268"
        inkscape:locked="false" />
@@ -202,7 +201,7 @@
        id="guide4577"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="3797.7028,-213.65414"
+       position="3850.7789,1435.9718"
        orientation="1,0"
        id="guide3946"
        inkscape:locked="false" />
@@ -215,11 +214,6 @@
        position="3773.1309,332.36785"
        orientation="0,1"
        id="guide4772"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="3850.5575,369.99919"
-       orientation="0,1"
-       id="guide4774"
        inkscape:locked="false" />
     <sodipodi:guide
        position="3863.4905,1530.9816"
@@ -273,6 +267,38 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="3950.1643,525.81137"
+       orientation="0,-1"
+       id="guide370" />
+    <sodipodi:guide
+       position="3929.13,551.83165"
+       orientation="0,-1"
+       id="guide372" />
+    <sodipodi:guide
+       position="3950.1645,827.72521"
+       orientation="0,-1"
+       id="guide374" />
+    <sodipodi:guide
+       position="3950.1645,854.11926"
+       orientation="0,-1"
+       id="guide376" />
+    <sodipodi:guide
+       position="3929.13,1435.9718"
+       orientation="0,-1"
+       id="guide378" />
+    <sodipodi:guide
+       position="3929.1303,257.87802"
+       orientation="0,-1"
+       id="guide380" />
+    <sodipodi:guide
+       position="3929.1302,221.6512"
+       orientation="0,-1"
+       id="guide382" />
+    <sodipodi:guide
+       position="4129.13,288.69835"
+       orientation="1,0"
+       id="guide384" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -282,7 +308,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -295,13 +321,13 @@
      sodipodi:insensitive="true">
     <image
        sodipodi:absref="/home/jeremy/UniGE/Articles/Cartes/Carte tectonique de la Suisse 1-500 000/PK_GK500_tekto_karte.tif"
-       y="-1093.3521"
-       x="-3024.2856"
-       id="image3430"
-       xlink:href="file:///home/jeremy/UniGE/Articles/Cartes/Carte%20tectonique%20de%20la%20Suisse%201-500%20000/PK_GK500_tekto_karte.tif"
-       preserveAspectRatio="none"
+       xlink:href="../../../Articles/Cartes/Carte%20tectonique%20de%20la%20Suisse%201-500%20000/PK_GK500_tekto_karte.tif"
+       width="8100"
        height="5200"
-       width="8100" />
+       preserveAspectRatio="none"
+       id="image3430"
+       x="-3024.2856"
+       y="-1093.3521" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -339,7 +365,7 @@
          sodipodi:nodetypes="csssszssscssssszssssszccsssccssssssssssssssssscsssssssscsssssssssscsssssssssssssssssssssscsszsssszssssssssscc" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          x="1897.9093"
          y="4068.1487"
          id="text4413"><tspan
@@ -347,7 +373,7 @@
            id="tspan4415"
            x="1897.9093"
            y="4068.1487"
-           style="font-size:40px;line-height:1.25">AR</tspan></text>
+           style="font-size:40px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">AR</tspan></text>
       <text
          id="text4417"
          y="2848.0361"
@@ -898,7 +924,7 @@
          sodipodi:nodetypes="ssscsscsssss" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="3678.2839"
          y="2025.3281"
          id="text4362"><tspan
@@ -906,23 +932,28 @@
            id="tspan4364"
            x="3678.2839"
            y="2025.3281"
-           style="font-size:43.00000381px;line-height:1.25">Lake </tspan><tspan
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Lake </tspan><tspan
            sodipodi:role="line"
            x="3678.2839"
            y="2079.0781"
            id="tspan4366"
-           style="font-size:43.00000381px;line-height:1.25">Lucerne</tspan></text>
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Lucerne</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1201.7356"
-         y="3378.1028"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1362.9319"
+         y="3329.3528"
          id="text4421"><tspan
            sodipodi:role="line"
            id="tspan4423"
-           x="1201.7356"
-           y="3378.1028"
-           style="font-size:43.00000381px;line-height:1.25">Lake Geneva</tspan></text>
+           x="1362.9319"
+           y="3329.3528"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:center;text-anchor:middle">Léman </tspan><tspan
+           sodipodi:role="line"
+           x="1362.9319"
+           y="3383.1028"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:center;text-anchor:middle"
+           id="tspan422">(Lake Geneva)</tspan></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
          d="m 3813.4288,2031.0008 c 178.6565,3.4268 25.8917,37.1916 64.6339,41.1259 38.7422,3.9343 168.5183,30.5017 168.5183,30.5017"
@@ -933,18 +964,18 @@
          id="text5728"
          y="1456.1927"
          x="4740.541"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
            id="tspan5732"
            y="1456.1927"
            x="4740.541"
            sodipodi:role="line"
-           style="font-size:43.00000381px;line-height:1.25">Lake</tspan><tspan
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Lake</tspan><tspan
            y="1509.9427"
            x="4740.541"
            sodipodi:role="line"
            id="tspan5736"
-           style="font-size:43.00000381px;line-height:1.25">Zurich</tspan></text>
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Zurich</tspan></text>
       <path
          sodipodi:nodetypes="czc"
          inkscape:connector-curvature="0"
@@ -955,18 +986,18 @@
          id="text6128"
          y="2492.595"
          x="3084.0688"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
            y="2492.595"
            x="3084.0688"
            id="tspan6130"
            sodipodi:role="line"
-           style="font-size:43.00000381px;line-height:1.25">Lake </tspan><tspan
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Lake </tspan><tspan
            id="tspan6132"
            y="2546.345"
            x="3084.0688"
            sodipodi:role="line"
-           style="font-size:43.00000381px;line-height:1.25">Thun</tspan></text>
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Thun</tspan></text>
       <path
          sodipodi:nodetypes="czc"
          inkscape:connector-curvature="0"
@@ -1041,7 +1072,7 @@
          r="7.9648905" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="626.08191"
          y="3926.3845"
          id="text4433"><tspan
@@ -1049,7 +1080,7 @@
            id="tspan4435"
            x="626.08191"
            y="3926.3845"
-           style="font-size:43.00000381px;line-height:1.25">Geneva</tspan></text>
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Geneva</tspan></text>
       <circle
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.18454969;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path4431-3"
@@ -1058,7 +1089,7 @@
          r="7.9648905" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="1370.8763"
          y="3227.2922"
          id="text4433-7"><tspan
@@ -1066,7 +1097,7 @@
            id="tspan4435-4"
            x="1370.8763"
            y="3227.2922"
-           style="font-size:43.00000381px;line-height:1.25">Lausanne</tspan></text>
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Lausanne</tspan></text>
       <circle
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.18454969;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path4431-39"
@@ -1075,7 +1106,7 @@
          r="7.9648905" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="1909.9357"
          y="2959.8137"
          id="text4433-79"><tspan
@@ -1083,7 +1114,7 @@
            id="tspan4435-9"
            x="1909.9357"
            y="2959.8137"
-           style="font-size:43.00000381px;line-height:1.25">Bulle</tspan></text>
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Bulle</tspan></text>
       <circle
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.18454969;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path4431-6"
@@ -1100,7 +1131,7 @@
            id="tspan4435-5"
            x="2802.3315"
            y="2673.7046"
-           style="font-size:43.00000381px;line-height:1.25">Thun</tspan></text>
+           style="font-size:43px;line-height:1.25">Thun</tspan></text>
       <circle
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.18454969;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path4431-1"
@@ -1109,7 +1140,7 @@
          r="7.9648905" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="3256.031"
          y="2858.5205"
          id="text4433-9"><tspan
@@ -1117,7 +1148,7 @@
            id="tspan4435-56"
            x="3256.031"
            y="2858.5205"
-           style="font-size:43.00000381px;line-height:1.25">Interlaken</tspan></text>
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Interlaken</tspan></text>
       <circle
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.18454969;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path4431-0"
@@ -1126,7 +1157,7 @@
          r="7.9648905" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="3875.5215"
          y="1973.3431"
          id="text4433-5"><tspan
@@ -1134,7 +1165,7 @@
            id="tspan4435-2"
            x="3875.5215"
            y="1973.3431"
-           style="font-size:43.00000381px;line-height:1.25">Luzern</tspan></text>
+           style="font-size:43px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Luzern</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1181,18 +1212,18 @@
          id="text6512"
          y="4778.9702"
          x="381.43808"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"
          transform="rotate(-31.594383)"><tspan
            y="4778.9702"
            x="381.43808"
            id="tspan6514"
            sodipodi:role="line"
-           style="font-size:50px;line-height:1.25">Swiss Prealps</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Swiss Prealps</tspan></text>
       <text
          transform="rotate(-31.594383)"
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="-829.10199"
          y="4776.9893"
          id="text6516"><tspan
@@ -1200,7 +1231,7 @@
            id="tspan6518"
            x="-829.10199"
            y="4776.9893"
-           style="font-size:50px;line-height:1.25">Chablais Prealps</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Chablais Prealps</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path6621"
@@ -1222,7 +1253,7 @@
       <text
          transform="rotate(-31.594383)"
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="2847.3052"
          y="4783.1821"
          id="text6627"><tspan
@@ -1230,7 +1261,7 @@
            x="2847.3052"
            y="4783.1821"
            id="tspan6633"
-           style="font-size:50px;line-height:1.25">Iberg Klippes</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Iberg Klippes</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1238,7 +1269,7 @@
        inkscape:label="Flysch">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#555753;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#555753;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          x="962.32898"
          y="3863.8569"
          id="text4389"><tspan
@@ -1246,21 +1277,21 @@
            id="tspan4391"
            x="962.32898"
            y="3863.8569"
-           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Vo</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';">Vo</tspan></text>
       <text
          id="text4401"
          y="2830.1038"
          x="2345.532"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#555753;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#555753;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          xml:space="preserve"><tspan
            y="2830.1038"
            x="2345.532"
            id="tspan4403"
            sodipodi:role="line"
-           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Gu</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';">Gu</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#555753;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#555753;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          x="3581.6487"
          y="2446.7178"
          id="text4405"><tspan
@@ -1268,18 +1299,18 @@
            id="tspan4407"
            x="3581.6487"
            y="2446.7178"
-           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Sch</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';">Sch</tspan></text>
       <text
          id="text4409"
          y="1985.9578"
          x="4503.2671"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#555753;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#555753;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          xml:space="preserve"><tspan
            y="1985.9578"
            x="4503.2671"
            id="tspan4411"
            sodipodi:role="line"
-           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Wä</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';">Wä</tspan></text>
     </g>
   </g>
   <g
@@ -1322,7 +1353,7 @@
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          x="1135.7856"
          y="4707.7427"
          id="text4284"><tspan
@@ -1330,7 +1361,7 @@
            id="tspan4286"
            x="1135.7856"
            y="4707.7427"
-           style="font-size:50px;line-height:1.25">6.50°</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">6.50°</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4292"
@@ -1340,13 +1371,13 @@
          id="text4294"
          y="4226.4058"
          x="1912.3322"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
            y="4226.4058"
            x="1912.3322"
            id="tspan4296"
            sodipodi:role="line"
-           style="font-size:50px;line-height:1.25">7°</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">7°</tspan></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 2690.0616,3693.1209 v -56.6867"
@@ -1354,7 +1385,7 @@
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          x="2690.5889"
          y="3748.6389"
          id="text4300"><tspan
@@ -1362,7 +1393,7 @@
            id="tspan4302"
            x="2690.5889"
            y="3748.6389"
-           style="font-size:50px;line-height:1.25">7.50°</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">7.50°</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4304"
@@ -1372,13 +1403,13 @@
          id="text4306"
          y="3269.0869"
          x="3468.8455"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
            y="3269.0869"
            x="3468.8455"
            id="tspan4308"
            sodipodi:role="line"
-           style="font-size:50px;line-height:1.25">8°</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">8°</tspan></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 4246.5752,2734.1188 v -56.6867"
@@ -1386,7 +1417,7 @@
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          x="4247.1021"
          y="2789.6367"
          id="text4312"><tspan
@@ -1394,7 +1425,7 @@
            id="tspan4314"
            x="4247.1021"
            y="2789.6367"
-           style="font-size:50px;line-height:1.25">8.50°</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">8.50°</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4317"
@@ -1404,13 +1435,13 @@
          id="text4319"
          y="2309.5825"
          x="5026.0093"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
            y="2309.5825"
            x="5026.0093"
            id="tspan4321"
            sodipodi:role="line"
-           style="font-size:50px;line-height:1.25">9°</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">9°</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4329"
@@ -1420,13 +1451,13 @@
          id="text4331"
          y="4356.6519"
          x="338.30551"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
            y="4356.6519"
            x="338.30551"
            id="tspan4333"
            sodipodi:role="line"
-           style="font-size:50px;line-height:1.25">46°</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">46°</tspan></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 1257.994,3228.3293 h 56.6867"
@@ -1434,7 +1465,7 @@
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          x="1163.2533"
          y="3246.5298"
          id="text4337"><tspan
@@ -1442,7 +1473,7 @@
            id="tspan4339"
            x="1163.2533"
            y="3246.5298"
-           style="font-size:50px;line-height:1.25">46.5°</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">46.5°</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4341"
@@ -1452,13 +1483,13 @@
          id="text4343"
          y="2137.709"
          x="2992.6843"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans';font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
            y="2137.709"
            x="2992.6843"
            id="tspan4345"
            sodipodi:role="line"
-           style="font-size:50px;line-height:1.25">47°</tspan></text>
+           style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">47°</tspan></text>
       <path
          style="fill:#b2cce1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 3791.2537,2406.6241 c -7.0764,7.4317 -14.0973,12.2855 -21.8544,17.6445 -6.4114,4.4293 -15.8948,6.2986 -18.0997,11.5902 -4.8725,11.6939 -11.2066,21.926 -5.8469,25.3368 5.3597,3.4107 16.079,21.926 22.9005,8.7704 6.8214,-13.1557 14.6173,-21.9261 22.9005,-32.6455 8.2832,-10.7193 22.9005,-16.079 26.7985,-25.8239 3.8979,-9.7449 3.8979,-26.3113 3.8979,-28.2603 0,-1.9489 -7.7959,-10.2321 -14.1301,-2.4362 -6.3342,7.7959 -9.4899,18.3923 -16.5663,25.824 z"
@@ -1494,27 +1525,27 @@
              x="3859.0923"
              y="3367.8743"
              id="tspan6936"
-             style="font-size:50px;line-height:1.25">Voirons nappe</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans'">Voirons nappe</tspan><tspan
              sodipodi:role="line"
              x="3859.0923"
-             y="3388.6455"
+             y="3390.9834"
              id="tspan6938"
-             style="font-size:50px;line-height:1.25" /><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans'" /><tspan
              sodipodi:role="line"
              x="3859.0923"
-             y="3430.3743"
+             y="3430.9353"
              id="tspan6942"
-             style="font-size:50px;line-height:1.25">Gurnigel nappe</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans'">Gurnigel nappe</tspan><tspan
              sodipodi:role="line"
              x="3859.0923"
-             y="3492.8743"
+             y="3493.4353"
              id="tspan6944"
-             style="font-size:50px;line-height:1.25">Schlieren nappe</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans'">Schlieren nappe</tspan><tspan
              sodipodi:role="line"
              x="3859.0923"
-             y="3555.3743"
+             y="3555.9353"
              id="tspan6946"
-             style="font-size:50px;line-height:1.25">Wägital nappe</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans'">Wägital nappe</tspan></text>
       </g>
       <g
          id="g4577"
@@ -1525,29 +1556,29 @@
            x="3859.0923"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              id="tspan4583"
              y="3372.8425"
              x="3859.0923"
              sodipodi:role="line">Vo</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              id="tspan4587"
-             y="3393.6138"
+             y="3395.9517"
              x="3859.0923"
-             sodipodi:role="line" /><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold'" /><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              id="tspan4599"
-             y="3435.3425"
+             y="3435.9036"
              x="3859.0923"
              sodipodi:role="line">Gu</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              id="tspan4603"
-             y="3497.8425"
+             y="3498.4036"
              x="3859.0923"
              sodipodi:role="line">Sch</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              id="tspan4607"
-             y="3560.3425"
+             y="3560.9036"
              x="3859.0923"
              sodipodi:role="line">Wä</tspan></text>
       </g>
@@ -1556,20 +1587,20 @@
          id="g4613">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:10px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0.9375px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="3721.2266"
            y="3308.6626"
            id="text4615"><tspan
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;letter-spacing:10px;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.5px;line-height:125%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';text-align:start;writing-mode:lr-tb;text-anchor:start"
              sodipodi:role="line"
              x="3721.2266"
              y="3308.6626"
-             id="tspan4643">Voirons-Wägital complex :</tspan></text>
+             id="tspan4643">The former Gurnigel nappe</tspan></text>
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-weight:normal;line-height:0%;font-family:'Nimbus Sans';letter-spacing:1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Nimbus Sans Italic';font-stretch:normal;font-variant:normal;"
        x="4482.9346"
        y="4173.5127"
        id="text3677"><tspan
@@ -1577,7 +1608,7 @@
          id="tspan3679"
          x="4482.9346"
          y="4173.5127"
-         style="font-size:25px;line-height:1.25"> </tspan></text>
+         style="font-size:25px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3886"
@@ -1589,7 +1620,8 @@
            x="3741.1584"
            y="2181.1384" /></flowRegion><flowPara
          id="flowPara3892"
-         style="font-size:75px;line-height:1.25"> </flowPara></flowRoot>    <rect
+         style="font-size:75px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4867"
        width="150.32761"
@@ -1598,7 +1630,7 @@
        y="3041.0474" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="4225.541"
        y="3008.4224"
        id="text4869"><tspan
@@ -1606,10 +1638,10 @@
          id="tspan4871"
          x="4225.541"
          y="3008.4224"
-         style="font-size:57.5px;line-height:1.25">Others</tspan></text>
+         style="font-size:57.5px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Others</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="4425.541"
        y="3102.4834"
        id="text4873"><tspan
@@ -1617,7 +1649,7 @@
          id="tspan4875"
          x="4425.541"
          y="3102.4834"
-         style="font-size:50px;line-height:1.25">Quaternary</tspan></text>
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Quaternary</tspan></text>
     <rect
        y="3151.0474"
        x="4225.541"
@@ -1629,38 +1661,36 @@
        id="text4879"
        y="3207.8201"
        x="4425.541"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          id="tspan4881"
          y="3207.8201"
          x="4425.541"
          sodipodi:role="line"
-         style="font-size:50px;line-height:1.25">North Alpine Foreland Basin</tspan></text>
-    <g
-       transform="translate(-389.43453,-474.79939)"
-       id="g4895">
-      <rect
-         y="4543.7275"
-         x="4614.9756"
-         height="87.691101"
-         width="150.32761"
-         id="rect4897"
-         style="opacity:1;fill:#babf4f;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text4899"
-         y="4605.1636"
-         x="4814.9756"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:50px;line-height:1.25"
-           y="4605.1636"
-           x="4814.9756"
-           id="tspan4901"
-           sodipodi:role="line">Voirons-Wägital complex</tspan></text>
-    </g>
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">North Alpine Foreland Basin</tspan></text>
+    <rect
+       y="4068.9282"
+       x="4225.541"
+       height="87.691101"
+       width="150.32761"
+       id="rect4897"
+       style="fill:#babf4f;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4899"
+       y="4125.7134"
+       x="4425.541"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';"
+         y="4125.7134"
+         x="4425.541"
+         sodipodi:role="line"
+         id="tspan364"><tspan
+   id="tspan411"
+   style="font-style:normal;font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-stretch:normal;font-variant:normal;">Former Gurnigel nappe </tspan>sensu Caron (1976)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="4233.2949"
        y="3314.3716"
        id="text4903"><tspan
@@ -1668,43 +1698,39 @@
          id="tspan4905"
          x="4233.2949"
          y="3314.3716"
-         style="font-size:57.5px;line-height:1.25">Jura</tspan></text>
-    <g
-       transform="translate(742.70437,-371.58699)"
-       id="g4907">
-      <rect
-         y="3725.7275"
-         x="3482.8369"
-         height="87.691101"
-         width="150.32761"
-         id="rect4909"
-         style="opacity:1;fill:#4bb2db;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text4911"
-         y="3787.1636"
-         x="3682.8367"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3787.1636"
-           x="3682.8367"
-           id="tspan4913"
-           sodipodi:role="line"
-           style="font-size:50px;line-height:1.25">Salève</tspan></text>
-    </g>
+         style="font-size:57.5px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Jura</tspan></text>
+    <rect
+       y="3354.1406"
+       x="4225.5415"
+       height="87.691101"
+       width="150.32761"
+       id="rect4909"
+       style="fill:#4bb2db;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4911"
+       y="3415.5767"
+       x="4425.541"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         y="3415.5767"
+         x="4425.541"
+         id="tspan4913"
+         sodipodi:role="line"
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Salève</tspan></text>
     <text
        id="text4885"
        y="4528.5337"
        x="4219.6245"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-size:57.5px;line-height:1.25"
+         style="font-size:57.5px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;"
          y="4528.5337"
          x="4219.6245"
          id="tspan4887"
          sodipodi:role="line">Piemont</tspan></text>
     <rect
        y="4564.5337"
-       x="4219.6245"
+       x="4225.541"
        height="87.691101"
        width="150.32761"
        id="rect4889"
@@ -1712,17 +1738,17 @@
     <text
        id="text4891"
        y="4621.3066"
-       x="4419.6245"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4425.541"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-size:50px;line-height:1.25"
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan4893"
          y="4621.3066"
-         x="4419.6245"
-         sodipodi:role="line">Upper Prealps nappe</tspan></text>
+         x="4425.541"
+         sodipodi:role="line">Upper Prealps nappes</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="4225.541"
        y="4222.9409"
        id="text4915"><tspan
@@ -1730,29 +1756,25 @@
          id="tspan4917"
          x="4225.541"
          y="4222.9409"
-         style="font-size:57.5px;line-height:1.25">Briançonnais</tspan></text>
-    <g
-       transform="translate(-389.43453,351.46365)"
-       id="g4919">
-      <rect
-         y="3903.7275"
-         x="4614.9756"
-         height="87.691101"
-         width="150.32761"
-         id="rect4921"
-         style="opacity:1;fill:#d5adc6;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text4923"
-         y="3965.1636"
-         x="4814.9756"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3965.1636"
-           x="4814.9756"
-           id="tspan4925"
-           sodipodi:role="line"
-           style="font-size:50px;line-height:1.25">Brèche nappe</tspan></text>
-    </g>
+         style="font-size:57.5px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Briançonnais</tspan></text>
+    <rect
+       y="4255.1914"
+       x="4225.541"
+       height="87.691101"
+       width="150.32761"
+       id="rect4921"
+       style="fill:#d5adc6;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4923"
+       y="4316.6274"
+       x="4425.541"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         y="4316.6274"
+         x="4425.541"
+         id="tspan4925"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';">Brèche nappe</tspan></text>
     <rect
        y="4362.8818"
        x="4225.541"
@@ -1764,13 +1786,13 @@
        id="text4929"
        y="4419.7524"
        x="4425.541"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          id="tspan4931"
          y="4419.7524"
          x="4425.541"
          sodipodi:role="line"
-         style="font-size:50px;line-height:1.25">Préalpes Médianes nappe</tspan></text>
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Préalpes Médianes nappes</tspan></text>
     <rect
        y="3548.1404"
        x="4225.541"
@@ -1782,24 +1804,24 @@
        id="text4935"
        y="3514.3899"
        x="4225.541"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          y="3514.3899"
          x="4225.541"
          id="tspan4937"
          sodipodi:role="line"
-         style="font-size:57.5px;line-height:1.25">Helvetic</tspan></text>
+         style="font-size:57.5px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Helvetic</tspan></text>
     <text
        id="text4939"
        y="3609.5764"
        x="4425.541"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          y="3609.5764"
          x="4425.541"
          id="tspan4941"
          sodipodi:role="line"
-         style="font-size:50px;line-height:1.25">Ultrahelvetic nappes</tspan></text>
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Ultrahelvetic nappes</tspan></text>
     <rect
        style="opacity:1;fill:#a6c95a;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4943"
@@ -1809,7 +1831,7 @@
        y="3657.3904" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="4425.541"
        y="3714.1755"
        id="text4945"><tspan
@@ -1817,7 +1839,7 @@
          sodipodi:role="line"
          x="4425.541"
          y="3714.1755"
-         style="font-size:50px;line-height:1.25">Undifferentiated sedimentary covers</tspan></text>
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Undifferentiated sedimentary covers</tspan></text>
     <rect
        y="3766.6404"
        x="4225.541"
@@ -1829,107 +1851,137 @@
        id="text4951"
        y="3792.1755"
        x="4425.541"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          y="3792.1755"
          x="4425.541"
          id="tspan4953"
          sodipodi:role="line"
-         style="font-size:50px;line-height:1.25">Crystalline basement</tspan><tspan
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Crystalline basement</tspan><tspan
          y="3854.7971"
          x="4425.541"
          sodipodi:role="line"
          id="tspan4955"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start">Aiguille-Rouges (AR), Aar massif (Aa)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;">Aiguille-Rouges (AR), Aar massif (Aa)</tspan></text>
     <text
        id="text4957"
        y="3924.4534"
        x="4217.1816"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          y="3924.4534"
          x="4217.1816"
          id="tspan4959"
          sodipodi:role="line"
-         style="font-size:57.5px;line-height:1.25">Valais</tspan></text>
-    <g
-       transform="translate(-389.43453,372.726)"
-       id="g4961">
-      <rect
-         style="opacity:1;fill:#dbcd74;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4963"
-         width="150.32761"
-         height="87.691101"
-         x="4614.9756"
-         y="3583.7275" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="4814.9756"
-         y="3645.1636"
-         id="text4965"><tspan
-           sodipodi:role="line"
-           id="tspan4967"
-           x="4814.9756"
-           y="3645.1636"
-           style="font-size:50px;line-height:1.25">Niesen nappe</tspan></text>
-    </g>
+         style="font-size:57.5px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Valais</tspan></text>
+    <rect
+       style="fill:#dbcd74;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4963"
+       width="150.32761"
+       height="87.691101"
+       x="4225.541"
+       y="3956.4536" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="4425.541"
+       y="4017.8896"
+       id="text4965"><tspan
+         sodipodi:role="line"
+         id="tspan4967"
+         x="4425.541"
+         y="4017.8896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';">Niesen nappe</tspan></text>
     <text
        id="text4969"
-       y="3853.5874"
-       x="3819.8865"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;letter-spacing:10px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="3577.1992"
+       x="4072.3376"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:end;letter-spacing:10px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="3853.5874"
-         x="3824.8865"
+         y="3577.1992"
+         x="4082.3376"
          id="tspan4971"
          sodipodi:role="line"
-         style="font-size:50px;line-height:1.25">Northern margin</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:end;text-anchor:end">European plate</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4973"
-       d="M 4147.1899,3273.8074 V 4450.5728"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 4147.1899,4182.6394 0,267.9334"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4147.1899,4488.9083 v 163.3162"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4147.1899,4486.7996 v 165.4249"
        id="path5093"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;letter-spacing:10px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3817.1521"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:end;letter-spacing:10px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="4069.6277"
        y="4584.3604"
        id="text5095"><tspan
          sodipodi:role="line"
          x="3822.1521"
          y="4584.3604"
          id="tspan5099"
-         style="font-size:50px;line-height:1.25">Southern margin</tspan></text>
+         style="font-size:50px;line-height:1.25;text-anchor:end;text-align:end;">Upper Penninic</tspan></text>
     <text
        id="text5101"
        y="3084.2041"
-       x="3951.6394"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;letter-spacing:10px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3927.1448"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:center;letter-spacing:10px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          id="tspan5105"
          y="3084.2041"
-         x="3956.6394"
+         x="3927.1448"
          sodipodi:role="line"
-         style="font-size:50px;line-height:1.25">Post-</tspan><tspan
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">Post-</tspan><tspan
          y="3146.7041"
-         x="3956.6394"
+         x="3932.1448"
          sodipodi:role="line"
          id="tspan5109"
-         style="font-size:50px;line-height:1.25">orogenic</tspan></text>
+         style="font-size:50px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans Italic';font-family:'Nimbus Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;">orogenic</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5111"
        d="m 4147.1899,2964.3584 v 276.1415"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path386"
+       d="m 4147.1899,3880.7256 0,275.8935"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path386-3"
+       d="m 4147.1899,3272.479 0,581.8525"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';text-align:end;letter-spacing:10px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="4069.6277"
+       y="4330.3999"
+       id="text405"><tspan
+         sodipodi:role="line"
+         x="4079.6277"
+         y="4330.3999"
+         id="tspan403"
+         style="font-size:50px;line-height:1.25;text-align:end;text-anchor:end;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Middle Penninic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:end;letter-spacing:10px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4069.6277"
+       y="4032.4663"
+       id="text409"><tspan
+         sodipodi:role="line"
+         x="4079.6277"
+         y="4032.4663"
+         id="tspan407"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic';text-align:end;text-anchor:end">Lower Penninic</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2018,7 +2070,7 @@
       <text
          transform="translate(-296.41098,-1143.0498)"
          xml:space="preserve"
-         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="1993.0813"
          y="1997.7827"
          id="text7075"><tspan
@@ -2026,7 +2078,7 @@
            id="tspan7077"
            x="1993.0813"
            y="1997.7827"
-           style="font-size:100px;line-height:1.25">Switzerland</tspan></text>
+           style="font-size:100px;line-height:1.25;-inkscape-font-specification:'Nimbus Sans';font-family:'Nimbus Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Switzerland</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2044,7 +2096,7 @@
            x="812.53699"
            id="tspan3664"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.00000381px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Fig. 12</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Fig. 12</tspan></text>
       <path
          transform="translate(-1.1060785e-6,4.3406882e-5)"
          style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2065,7 +2117,7 @@
          x="1406.8041"
          y="3537.9893"
          id="text4490"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.00000381px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            id="tspan4492"
            x="1406.8041"
