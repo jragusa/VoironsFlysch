@@ -308,7 +308,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -322,12 +322,12 @@
     <image
        sodipodi:absref="/home/jeremy/UniGE/Articles/Cartes/Carte tectonique de la Suisse 1-500 000/PK_GK500_tekto_karte.tif"
        xlink:href="../../../Articles/Cartes/Carte%20tectonique%20de%20la%20Suisse%201-500%20000/PK_GK500_tekto_karte.tif"
-       width="8100"
-       height="5200"
-       preserveAspectRatio="none"
-       id="image3430"
+       y="-1093.3521"
        x="-3024.2856"
-       y="-1093.3521" />
+       id="image3430"
+       preserveAspectRatio="none"
+       height="5200"
+       width="8100" />
   </g>
   <g
      inkscape:groupmode="layer"
